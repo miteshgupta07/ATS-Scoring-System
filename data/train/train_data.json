@@ -58,16 +58,6 @@
         "LOCATION"
       ],
       [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        46,
-        "DESIGNATION"
-      ],
-      [
         0,
         12,
         "NAME"
@@ -118,11 +108,6 @@
         "DEGREE"
       ],
       [
-        104,
-        148,
-        "EMAIL_ADDRESS"
-      ],
-      [
         62,
         68,
         "LOCATION"
@@ -148,21 +133,6 @@
         "SKILLS"
       ],
       [
-        3542,
-        3550,
-        "SKILLS"
-      ],
-      [
-        3489,
-        3498,
-        "SKILLS"
-      ],
-      [
-        3542,
-        3550,
-        "SKILLS"
-      ],
-      [
         3527,
         3530,
         "SKILLS"
@@ -170,11 +140,6 @@
       [
         3510,
         3515,
-        "SKILLS"
-      ],
-      [
-        3489,
-        3498,
         "SKILLS"
       ],
       [
@@ -208,29 +173,9 @@
         "DESIGNATION"
       ],
       [
-        22,
-        31,
-        "LOCATION"
-      ],
-      [
-        764,
-        779,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        739,
-        762,
-        "DESIGNATION"
-      ],
-      [
         65,
         117,
         "EMAIL_ADDRESS"
-      ],
-      [
-        22,
-        31,
-        "LOCATION"
       ],
       [
         0,
@@ -278,36 +223,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        62,
-        71,
-        "LOCATION"
-      ],
-      [
-        54,
-        60,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        51,
-        "DESIGNATION"
-      ],
-      [
-        62,
-        71,
-        "LOCATION"
-      ],
-      [
-        105,
-        147,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        62,
-        71,
-        "LOCATION"
-      ],
-      [
         54,
         60,
         "COMPANIES_WORKED_AT"
@@ -353,36 +268,6 @@
         "DEGREE"
       ],
       [
-        862,
-        879,
-        "COLLEGE_NAME"
-      ],
-      [
-        857,
-        860,
-        "DEGREE"
-      ],
-      [
-        14,
-        22,
-        "DESIGNATION"
-      ],
-      [
-        14,
-        22,
-        "DESIGNATION"
-      ],
-      [
-        14,
-        22,
-        "DESIGNATION"
-      ],
-      [
-        43,
-        49,
-        "LOCATION"
-      ],
-      [
         14,
         22,
         "DESIGNATION"
@@ -393,19 +278,9 @@
         "EMAIL_ADDRESS"
       ],
       [
-        43,
-        49,
-        "LOCATION"
-      ],
-      [
         25,
         41,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        22,
-        "DESIGNATION"
       ],
       [
         0,
@@ -468,49 +343,9 @@
         "EMAIL_ADDRESS"
       ],
       [
-        398,
-        402,
-        "GRADUATION_YEAR"
-      ],
-      [
-        398,
-        402,
-        "GRADUATION_YEAR"
-      ],
-      [
-        367,
-        376,
-        "LOCATION"
-      ],
-      [
         355,
         363,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        398,
-        402,
-        "GRADUATION_YEAR"
-      ],
-      [
-        367,
-        376,
-        "LOCATION"
-      ],
-      [
-        355,
-        363,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        32,
-        "DESIGNATION"
-      ],
-      [
-        56,
-        97,
-        "EMAIL_ADDRESS"
       ],
       [
         12,
@@ -563,11 +398,6 @@
         "DEGREE"
       ],
       [
-        1525,
-        1529,
-        "GRADUATION_YEAR"
-      ],
-      [
         108,
         146,
         "EMAIL_ADDRESS"
@@ -593,26 +423,6 @@
         "DESIGNATION"
       ],
       [
-        1192,
-        1199,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1192,
-        1199,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1192,
-        1199,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1192,
-        1199,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         9,
         35,
         "DESIGNATION"
@@ -623,29 +433,9 @@
         "YEARS_OF_EXPERIENCE"
       ],
       [
-        108,
-        146,
-        "EMAIL_ADDRESS"
-      ],
-      [
         60,
         74,
         "LOCATION"
-      ],
-      [
-        38,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        38,
-        44,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        9,
-        35,
-        "DESIGNATION"
       ],
       [
         0,
@@ -693,24 +483,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        14,
-        23,
-        "DESIGNATION"
-      ],
-      [
         114,
         123,
         "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        25,
-        32,
-        "LOCATION"
-      ],
-      [
-        14,
-        23,
-        "DESIGNATION"
       ],
       [
         0,
@@ -828,36 +603,6 @@
         "DESIGNATION"
       ],
       [
-        12,
-        21,
-        "DESIGNATION"
-      ],
-      [
-        57,
-        98,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        12,
-        21,
-        "DESIGNATION"
-      ],
-      [
-        24,
-        33,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        21,
-        "DESIGNATION"
-      ],
-      [
-        24,
-        33,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         57,
         98,
         "EMAIL_ADDRESS"
@@ -866,11 +611,6 @@
         24,
         33,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        21,
-        "DESIGNATION"
       ],
       [
         0,
@@ -918,16 +658,6 @@
         "LOCATION"
       ],
       [
-        36,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        33,
-        "DESIGNATION"
-      ],
-      [
         0,
         11,
         "NAME"
@@ -963,16 +693,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        215,
-        219,
-        "GRADUATION_YEAR"
-      ],
-      [
-        42,
-        57,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         102,
         143,
         "EMAIL_ADDRESS"
@@ -981,11 +701,6 @@
         59,
         68,
         "LOCATION"
-      ],
-      [
-        42,
-        57,
-        "COMPANIES_WORKED_AT"
       ],
       [
         12,
@@ -1023,19 +738,9 @@
         "DEGREE"
       ],
       [
-        31,
-        40,
-        "LOCATION"
-      ],
-      [
         1192,
         1216,
         "COLLEGE_NAME"
-      ],
-      [
-        31,
-        40,
-        "LOCATION"
       ],
       [
         1131,
@@ -1053,21 +758,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        23,
-        29,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        31,
-        40,
-        "LOCATION"
-      ],
-      [
-        23,
-        29,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         9,
         20,
         "DESIGNATION"
@@ -1076,21 +766,6 @@
         74,
         112,
         "EMAIL_ADDRESS"
-      ],
-      [
-        31,
-        40,
-        "LOCATION"
-      ],
-      [
-        23,
-        29,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        9,
-        20,
-        "DESIGNATION"
       ],
       [
         0,
@@ -1133,11 +808,6 @@
         "GRADUATION_YEAR"
       ],
       [
-        1138,
-        1142,
-        "GRADUATION_YEAR"
-      ],
-      [
         1061,
         1136,
         "COLLEGE_NAME"
@@ -1148,11 +818,6 @@
         "DEGREE"
       ],
       [
-        419,
-        423,
-        "GRADUATION_YEAR"
-      ],
-      [
         410,
         417,
         "COMPANIES_WORKED_AT"
@@ -1161,11 +826,6 @@
         18,
         32,
         "DESIGNATION"
-      ],
-      [
-        81,
-        128,
-        "EMAIL_ADDRESS"
       ],
       [
         42,
@@ -1196,11 +856,6 @@
         762,
         811,
         "DEGREE"
-      ],
-      [
-        715,
-        730,
-        "COLLEGE_NAME"
       ],
       [
         708,
@@ -1243,11 +898,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        12,
-        16,
-        "LOCATION"
-      ],
-      [
         0,
         11,
         "NAME"
@@ -1281,21 +931,6 @@
         31,
         37,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        1735,
-        1740,
-        "SKILLS"
-      ],
-      [
-        1680,
-        1685,
-        "SKILLS"
-      ],
-      [
-        1680,
-        1685,
-        "SKILLS"
       ],
       [
         1646,
@@ -1338,11 +973,6 @@
         "DESIGNATION"
       ],
       [
-        31,
-        37,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         11,
         28,
         "DESIGNATION"
@@ -1356,16 +986,6 @@
         39,
         48,
         "LOCATION"
-      ],
-      [
-        31,
-        37,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        28,
-        "DESIGNATION"
       ],
       [
         0,
@@ -1408,36 +1028,6 @@
         "DEGREE"
       ],
       [
-        7632,
-        7636,
-        "GRADUATION_YEAR"
-      ],
-      [
-        54,
-        61,
-        "LOCATION"
-      ],
-      [
-        54,
-        61,
-        "LOCATION"
-      ],
-      [
-        7632,
-        7636,
-        "GRADUATION_YEAR"
-      ],
-      [
-        54,
-        61,
-        "LOCATION"
-      ],
-      [
-        54,
-        61,
-        "LOCATION"
-      ],
-      [
         16,
         34,
         "DESIGNATION"
@@ -1446,31 +1036,11 @@
         96,
         141,
         "EMAIL_ADDRESS"
-      ],
-      [
-        16,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        96,
-        141,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        54,
-        61,
-        "LOCATION"
       ],
       [
         37,
         52,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        34,
-        "DESIGNATION"
       ],
       [
         0,
@@ -1518,36 +1088,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        3768,
-        3773,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        3749,
-        3766,
-        "DESIGNATION"
-      ],
-      [
-        79,
-        88,
-        "LOCATION"
-      ],
-      [
-        13,
-        70,
-        "DESIGNATION"
-      ],
-      [
-        79,
-        88,
-        "LOCATION"
-      ],
-      [
-        73,
-        78,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         13,
         70,
         "DESIGNATION"
@@ -1556,26 +1096,6 @@
         133,
         175,
         "EMAIL_ADDRESS"
-      ],
-      [
-        133,
-        175,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        79,
-        88,
-        "LOCATION"
-      ],
-      [
-        73,
-        78,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        70,
-        "DESIGNATION"
       ],
       [
         0,
@@ -1623,28 +1143,13 @@
         "SKILLS"
       ],
       [
-        828,
-        831,
-        "SKILLS"
-      ],
-      [
         852,
         860,
         "SKILLS"
       ],
       [
-        828,
-        831,
-        "SKILLS"
-      ],
-      [
         796,
         807,
-        "SKILLS"
-      ],
-      [
-        762,
-        768,
         "SKILLS"
       ],
       [
@@ -1668,11 +1173,6 @@
         "LOCATION"
       ],
       [
-        57,
-        62,
-        "LOCATION"
-      ],
-      [
         621,
         663,
         "COLLEGE_NAME"
@@ -1681,21 +1181,6 @@
         665,
         669,
         "GRADUATION_YEAR"
-      ],
-      [
-        57,
-        62,
-        "LOCATION"
-      ],
-      [
-        57,
-        62,
-        "LOCATION"
-      ],
-      [
-        621,
-        663,
-        "COLLEGE_NAME"
       ],
       [
         609,
@@ -1733,21 +1218,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        57,
-        62,
-        "LOCATION"
-      ],
-      [
-        57,
-        62,
-        "LOCATION"
-      ],
-      [
-        14,
-        55,
-        "DESIGNATION"
-      ],
-      [
         0,
         13,
         "NAME"
@@ -1778,59 +1248,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1753,
         1770,
         "DESIGNATION"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
       ],
       [
         90,
@@ -1858,24 +1278,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        234,
-        240,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        234,
-        240,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1356,
         1793,
         "SKILLS"
-      ],
-      [
-        234,
-        240,
-        "COMPANIES_WORKED_AT"
       ],
       [
         1136,
@@ -1898,34 +1303,14 @@
         "DEGREE"
       ],
       [
-        787,
-        791,
-        "GRADUATION_YEAR"
-      ],
-      [
-        234,
-        240,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         722,
         742,
         "DESIGNATION"
       ],
       [
-        234,
-        240,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         640,
         656,
         "DESIGNATION"
-      ],
-      [
-        234,
-        240,
-        "COMPANIES_WORKED_AT"
       ],
       [
         555,
@@ -1943,21 +1328,6 @@
         "DESIGNATION"
       ],
       [
-        234,
-        240,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        234,
-        240,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        175,
-        198,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         93,
         136,
         "EMAIL_ADDRESS"
@@ -1966,11 +1336,6 @@
         39,
         48,
         "LOCATION"
-      ],
-      [
-        13,
-        37,
-        "DESIGNATION"
       ],
       [
         0,
@@ -1982,16 +1347,6 @@
   {
     "text": "Harini Komaravelli Test Analyst at Oracle, Hyderabad  Hyderabad, Telangana - Email me on Indeed: indeed.com/r/Harini- Komaravelli/2659eee82e435d1b  ➢ 6 Yrs. of IT Experience in Manual and Automation testing.  WORK EXPERIENCE  QA Analyst  Oracle  Test Analyst at Oracle, Hyderabad  Infosys Ltd -  Hyderabad, Telangana -  November 2011 to February 2016  Hyderabad from Nov 2011 to Feb17 2016 ➢ Worked in Tata Consultancy Services, Hyderabad from Feb 24 to Apr 11 2017 ➢ Currently working as a Test Analyst at Oracle, Hyderabad  QA Analyst with 6 years of IT experience  Oracle  EDUCATION  MCA  Osmania University  B.Sc. in Computer Science  Osmania University  SKILLS  Functional Testing, Blue Prism, Qtp  ADDITIONAL INFORMATION  Area of Expertise:  ➢ Familiar with Agile Methodologies. ➢ Having knowledge in Energy (Petroleum) & Health Care domains. ➢ Involved in preparation of Test Scenarios. ➢ Preparing Test Data for the test cases.  https://www.indeed.com/r/Harini-Komaravelli/2659eee82e435d1b?isid=rex-download&ikw=download-top&co=IN https://www.indeed.com/r/Harini-Komaravelli/2659eee82e435d1b?isid=rex-download&ikw=download-top&co=IN   ➢ Experienced in development and execution of Test cases effectively. ➢ Experienced in Functional testing, GUI testing, Smoke testing, Regression testing and Integration Testing ➢ Experienced in doing Accessibility testing of an application ➢ Ability to understand user Requirements, Functional and Design specifications. ➢ Good knowledge of SDLC and STLC processes. ➢ Deciding the Severity and Priority of bugs. ➢ Experience in using Microsoft Test Manager & Oracle Test Manager as Test Management Tools. ➢ Having good experience in testing windows based & web based applications. ➢ Involved in Client Interactions for reviews, issues and for any clarifications. ➢ Web Services Testing ➢ Writing Test Scripts in QTP, Testcomplete. ➢ Creating Object Repositories and Function Libraries in QTP. ➢ Enhanced QTP scripts using VB Script. ➢ Strong experience in working with Blue Prism tool ➢ Worked on different Environments like Windows Application & Web Application  Technical Skills:  ❑ Test Automation Tools: Blue Prism, QTP 10.0, Testcomplete ❑ Test Management Tool: Microsoft Test Manager, Oracle Test Manager & JIRA ❑ Databases: Oracle 10g, SQL Server.  ❑ Operating Systems: Windows 7  Project 1: Title: Cadence Client: Baker Hughes  Technologies: Microsoft Visual Studio and Microsoft Team Foundation Server  Client Background: An oilfield services company delivering focused efforts on shale gas and other oilfield services. It provides services, tools and software for drilling and formation evaluation, well completion, production management, seismic data collection and interpretation.  Project Description: AUT (Application under test) is the next generation revolutionary, robust, easy to use scalable well site data acquisition processing and interpretation system for Client's Drilling Services to deliver services that meets cross divisional business requirements consistently.  Project 2:  Description: Paragon supports your entire care team with one tool that your clinicians need to help deliver the best patient care. Designed by physicians, nurses, pharmacists and mid level providers that have a first-hand understanding of clinical workflow needs, Paragon clinical applications allow your caregivers to focus on what matters most; spending time caring for patients. Since Paragon is fully-integrated across all applications and built around a single patient database, information    entered anywhere in the system is immediately available to the entire care team. Immediate access not only helps clinicians make better treatment decisions - it also helps promote patient safety. Paragon offers a broad suite of multidisciplinary clinical software solutions together with anytime, anywhere access to the complete patient record.  Responsibilities:  • Performed Smoke testing and Regression testing. • Involved in Generating and Executing Test Script using Quick Test Pro & Blue Prism • Usability and User Interface Testing. • Involved in Defect tracking and reporting the bugs using TFS • Participated in frequent walk-through meetings with Internal Quality Assurance groups and with development groups. • Participated in client calls and clarifying the doubts by having AT&T sessions • Involved in functional, regression and smoke testing to validate the application data changes done in windows application • Certifying the build status by running the scripts as part of smoke testing  Project 3:  Description: Food & Beverages R&A: Easily manage business across multiple locations while reducing IT cost and complexity. Cloud-based point-of-sale (POS) solutions enable centralized enterprise management with lower upfront costs and a smaller footprint.  Responsibilities:  • Performed Functional testing and Regression testing. • Involved in Generating and Executing Test Scripts using Blue Prism tool and Open script • Involved in preparing bots using Blue Prism tool. • Accessibility testing of the web application • Involved in Defect tracking and reporting the bugs using JIRA • WebServices testing by calling API's to export the data",
     "entities": [
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
       [
         35,
         41,
@@ -2013,21 +1368,11 @@
         "DEGREE"
       ],
       [
-        592,
-        610,
-        "COLLEGE_NAME"
-      ],
-      [
         587,
         590,
         "DEGREE"
       ],
       [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         226,
         236,
         "DESIGNATION"
@@ -2038,53 +1383,8 @@
         "LOCATION"
       ],
       [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         19,
         31,
-        "DESIGNATION"
-      ],
-      [
-        43,
-        52,
-        "LOCATION"
-      ],
-      [
-        43,
-        52,
-        "LOCATION"
-      ],
-      [
-        43,
-        52,
-        "LOCATION"
-      ],
-      [
-        43,
-        52,
-        "LOCATION"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        19,
-        31,
-        "DESIGNATION"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        226,
-        236,
         "DESIGNATION"
       ],
       [
@@ -2096,26 +1396,6 @@
         150,
         155,
         "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        43,
-        52,
-        "LOCATION"
-      ],
-      [
-        43,
-        52,
-        "LOCATION"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        19,
-        31,
-        "DESIGNATION"
       ],
       [
         0,
@@ -2163,11 +1443,6 @@
         "GRADUATION_YEAR"
       ],
       [
-        743,
-        761,
-        "COLLEGE_NAME"
-      ],
-      [
         715,
         741,
         "DEGREE"
@@ -2183,24 +1458,9 @@
         "DESIGNATION"
       ],
       [
-        96,
-        141,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        53,
-        62,
-        "LOCATION"
-      ],
-      [
         38,
         51,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        35,
-        "DESIGNATION"
       ],
       [
         0,
@@ -2248,26 +1508,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        487,
-        505,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        36,
-        "DESIGNATION"
-      ],
-      [
-        514,
-        518,
-        "GRADUATION_YEAR"
-      ],
-      [
-        487,
-        505,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         16,
         36,
         "DESIGNATION"
@@ -2276,16 +1516,6 @@
         39,
         51,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        487,
-        505,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        36,
-        "DESIGNATION"
       ],
       [
         98,
@@ -2296,16 +1526,6 @@
         53,
         67,
         "LOCATION"
-      ],
-      [
-        39,
-        51,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        36,
-        "DESIGNATION"
       ],
       [
         0,
@@ -2343,11 +1563,6 @@
         "DEGREE"
       ],
       [
-        1433,
-        1468,
-        "COLLEGE_NAME"
-      ],
-      [
         270,
         274,
         "GRADUATION_YEAR"
@@ -2368,16 +1583,6 @@
         "DEGREE"
       ],
       [
-        270,
-        274,
-        "GRADUATION_YEAR"
-      ],
-      [
-        33,
-        37,
-        "LOCATION"
-      ],
-      [
         204,
         238,
         "COMPANIES_WORKED_AT"
@@ -2386,16 +1591,6 @@
         181,
         202,
         "DESIGNATION"
-      ],
-      [
-        33,
-        37,
-        "LOCATION"
-      ],
-      [
-        33,
-        37,
-        "LOCATION"
       ],
       [
         17,
@@ -2428,11 +1623,6 @@
         "GRADUATION_YEAR"
       ],
       [
-        405,
-        409,
-        "GRADUATION_YEAR"
-      ],
-      [
         1440,
         1463,
         "COLLEGE_NAME"
@@ -2461,16 +1651,6 @@
         917,
         940,
         "SKILLS"
-      ],
-      [
-        405,
-        409,
-        "GRADUATION_YEAR"
-      ],
-      [
-        405,
-        409,
-        "GRADUATION_YEAR"
       ],
       [
         356,
@@ -2533,21 +1713,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        50,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        50,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        50,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         14,
         47,
         "DESIGNATION"
@@ -2556,11 +1721,6 @@
         1576,
         1706,
         "SKILLS"
-      ],
-      [
-        50,
-        58,
-        "COMPANIES_WORKED_AT"
       ],
       [
         156,
@@ -2576,16 +1736,6 @@
         60,
         67,
         "LOCATION"
-      ],
-      [
-        50,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        47,
-        "DESIGNATION"
       ],
       [
         0,
@@ -2623,16 +1773,6 @@
         "DESIGNATION"
       ],
       [
-        600,
-        608,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        20,
-        40,
-        "DESIGNATION"
-      ],
-      [
         116,
         166,
         "EMAIL_ADDRESS"
@@ -2641,11 +1781,6 @@
         73,
         82,
         "LOCATION"
-      ],
-      [
-        20,
-        40,
-        "DESIGNATION"
       ],
       [
         0,
@@ -2713,11 +1848,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        34,
-        49,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         15,
         31,
         "DESIGNATION"
@@ -2726,26 +1856,6 @@
         98,
         143,
         "EMAIL_ADDRESS"
-      ],
-      [
-        51,
-        63,
-        "LOCATION"
-      ],
-      [
-        34,
-        49,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        34,
-        49,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        31,
-        "DESIGNATION"
       ],
       [
         0,
@@ -2793,69 +1903,9 @@
         "DESIGNATION"
       ],
       [
-        40,
-        49,
-        "LOCATION"
-      ],
-      [
-        23,
-        38,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         3721,
         3734,
         "DESIGNATION"
-      ],
-      [
-        40,
-        49,
-        "LOCATION"
-      ],
-      [
-        23,
-        38,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        20,
-        "DESIGNATION"
-      ],
-      [
-        493,
-        497,
-        "GRADUATION_YEAR"
-      ],
-      [
-        23,
-        38,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        40,
-        49,
-        "LOCATION"
-      ],
-      [
-        23,
-        38,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        20,
-        "DESIGNATION"
-      ],
-      [
-        40,
-        49,
-        "LOCATION"
-      ],
-      [
-        23,
-        38,
-        "COMPANIES_WORKED_AT"
       ],
       [
         11,
@@ -2898,16 +1948,6 @@
         "GRADUATION_YEAR"
       ],
       [
-        2938,
-        2967,
-        "COLLEGE_NAME"
-      ],
-      [
-        2932,
-        2936,
-        "DEGREE"
-      ],
-      [
         2749,
         2753,
         "GRADUATION_YEAR"
@@ -2923,11 +1963,6 @@
         "DEGREE"
       ],
       [
-        2749,
-        2753,
-        "GRADUATION_YEAR"
-      ],
-      [
         2614,
         2693,
         "SKILLS"
@@ -2938,39 +1973,14 @@
         "LOCATION"
       ],
       [
-        46,
-        51,
-        "LOCATION"
-      ],
-      [
         14,
         30,
         "DESIGNATION"
-      ],
-      [
-        46,
-        51,
-        "LOCATION"
-      ],
-      [
-        221,
-        233,
-        "SKILLS"
       ],
       [
         33,
         44,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        30,
-        "DESIGNATION"
-      ],
-      [
-        221,
-        233,
-        "SKILLS"
       ],
       [
         138,
@@ -2981,26 +1991,6 @@
         81,
         124,
         "EMAIL_ADDRESS"
-      ],
-      [
-        46,
-        51,
-        "LOCATION"
-      ],
-      [
-        46,
-        51,
-        "LOCATION"
-      ],
-      [
-        33,
-        44,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        30,
-        "DESIGNATION"
       ],
       [
         0,
@@ -3043,36 +2033,6 @@
         "COLLEGE_NAME"
       ],
       [
-        30,
-        35,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        27,
-        "DESIGNATION"
-      ],
-      [
-        30,
-        35,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        30,
-        35,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        30,
-        35,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        30,
-        35,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         16,
         27,
         "DESIGNATION"
@@ -3081,36 +2041,11 @@
         37,
         46,
         "LOCATION"
-      ],
-      [
-        30,
-        35,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        30,
-        35,
-        "COMPANIES_WORKED_AT"
       ],
       [
         72,
         126,
         "EMAIL_ADDRESS"
-      ],
-      [
-        37,
-        46,
-        "LOCATION"
-      ],
-      [
-        30,
-        35,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        27,
-        "DESIGNATION"
       ],
       [
         0,
@@ -3158,24 +2093,9 @@
         "EMAIL_ADDRESS"
       ],
       [
-        345,
-        349,
-        "GRADUATION_YEAR"
-      ],
-      [
-        92,
-        131,
-        "EMAIL_ADDRESS"
-      ],
-      [
         52,
         57,
         "LOCATION"
-      ],
-      [
-        35,
-        50,
-        "COMPANIES_WORKED_AT"
       ],
       [
         10,
@@ -3228,33 +2148,8 @@
         "SKILLS"
       ],
       [
-        886,
-        897,
-        "SKILLS"
-      ],
-      [
-        1666,
-        1670,
-        "SKILLS"
-      ],
-      [
         1636,
         1645,
-        "SKILLS"
-      ],
-      [
-        1599,
-        1615,
-        "SKILLS"
-      ],
-      [
-        894,
-        897,
-        "SKILLS"
-      ],
-      [
-        856,
-        862,
         "SKILLS"
       ],
       [
@@ -3293,11 +2188,6 @@
         "COLLEGE_NAME"
       ],
       [
-        1106,
-        1183,
-        "DEGREE"
-      ],
-      [
         1100,
         1104,
         "GRADUATION_YEAR"
@@ -3306,21 +2196,6 @@
         1073,
         1098,
         "COLLEGE_NAME"
-      ],
-      [
-        894,
-        897,
-        "SKILLS"
-      ],
-      [
-        886,
-        897,
-        "SKILLS"
-      ],
-      [
-        856,
-        862,
-        "SKILLS"
       ],
       [
         44,
@@ -3336,16 +2211,6 @@
         9,
         30,
         "DESIGNATION"
-      ],
-      [
-        87,
-        124,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        44,
-        53,
-        "LOCATION"
       ],
       [
         0,
@@ -3398,16 +2263,6 @@
         "LOCATION"
       ],
       [
-        30,
-        35,
-        "LOCATION"
-      ],
-      [
-        389,
-        397,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         19,
         28,
         "DESIGNATION"
@@ -3416,16 +2271,6 @@
         73,
         122,
         "EMAIL_ADDRESS"
-      ],
-      [
-        30,
-        35,
-        "LOCATION"
-      ],
-      [
-        19,
-        28,
-        "DESIGNATION"
       ],
       [
         0,
@@ -3448,11 +2293,6 @@
         "SKILLS"
       ],
       [
-        372,
-        376,
-        "GRADUATION_YEAR"
-      ],
-      [
         424,
         471,
         "COLLEGE_NAME"
@@ -3461,11 +2301,6 @@
         400,
         422,
         "DEGREE"
-      ],
-      [
-        372,
-        376,
-        "GRADUATION_YEAR"
       ],
       [
         16,
@@ -3486,11 +2321,6 @@
         57,
         103,
         "EMAIL_ADDRESS"
-      ],
-      [
-        16,
-        21,
-        "LOCATION"
       ],
       [
         0,
@@ -3543,11 +2373,6 @@
         "GRADUATION_YEAR"
       ],
       [
-        2766,
-        2770,
-        "GRADUATION_YEAR"
-      ],
-      [
         2734,
         2764,
         "COLLEGE_NAME"
@@ -3563,11 +2388,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        542,
-        546,
-        "GRADUATION_YEAR"
-      ],
-      [
         490,
         505,
         "COMPANIES_WORKED_AT"
@@ -3581,41 +2401,6 @@
         626,
         1024,
         "SKILLS"
-      ],
-      [
-        542,
-        546,
-        "GRADUATION_YEAR"
-      ],
-      [
-        22,
-        31,
-        "LOCATION"
-      ],
-      [
-        542,
-        546,
-        "GRADUATION_YEAR"
-      ],
-      [
-        22,
-        31,
-        "LOCATION"
-      ],
-      [
-        490,
-        505,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        65,
-        108,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        22,
-        31,
-        "LOCATION"
       ],
       [
         0,
@@ -3663,11 +2448,6 @@
         "LOCATION"
       ],
       [
-        21,
-        65,
-        "DESIGNATION"
-      ],
-      [
         0,
         20,
         "NAME"
@@ -3698,44 +2478,9 @@
         "DESIGNATION"
       ],
       [
-        62,
-        71,
-        "LOCATION"
-      ],
-      [
-        19,
-        42,
-        "DESIGNATION"
-      ],
-      [
-        62,
-        71,
-        "LOCATION"
-      ],
-      [
-        19,
-        42,
-        "DESIGNATION"
-      ],
-      [
         105,
         154,
         "EMAIL_ADDRESS"
-      ],
-      [
-        62,
-        71,
-        "LOCATION"
-      ],
-      [
-        45,
-        60,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        19,
-        42,
-        "DESIGNATION"
       ],
       [
         0,
@@ -3747,11 +2492,6 @@
   {
     "text": "Madas Peddaiah Anantapur, Andhra Pradesh - Email me on Indeed: indeed.com/r/Madas- Peddaiah/557069069de72b14  • Having 3 moths of experience in Manual Testing. • Previously worked with Infosys Limited, Mysore as a Software Test Engineer. • Having good experience in Executed Test Cases as per Client Requirements. • Having good experience in identifying the test scenarios and designing the test cases. • Worked on IE, Firefox and Chrome Driver using Selenium. • Good Knowledge in Core Java, SQL. • Experience in designing, preparing and executing test cases for client server and web based applications STLC Concepts. ➢ Web Based Application Testing • Experience in understanding business requirements, preparing and execution of test cases for System Customizations/Enhancements and Initiatives. • Quick learner with the ability to grasp new technologies. • Excellent team player having ability to finish the tight deadlines and work under pressure. • Good exposure on Manual Testing & Bug Life Cycle.  WORK EXPERIENCE  Infosys Limited -  Mysore, Karnataka -  September 2014 to December 2014  Educational Technologies:  Software Test Engineer  Infosys Limited -  September 2014 to December 2014  -September 2014 to December 2014. Project: 1 Client: Loan Account Role: Software Test Engineer Team Size: 4 Technologies: J2EE, Oracle 10g, Windows 7 Used Tools: Selenium, Core Java, HPQC and Eclipse. Duration: September 2014 to December 2014  Project Description: In this project we maintain all details about account transaction details, customer loan account details, calculate monthly EMI's and there activity like - Account login details, Account transaction, Loan account details etc. Responsibilities: • Participated in identifying the test scenarios and designing the test cases. • Prepared and Executed Test Cases as per Client Requirements.  https://www.indeed.com/r/Madas-Peddaiah/557069069de72b14?isid=rex-download&ikw=download-top&co=IN https://www.indeed.com/r/Madas-Peddaiah/557069069de72b14?isid=rex-download&ikw=download-top&co=IN   • Performed Manual Testing on some modules. • Feasibility analysis of Manual Test Cases. • Performed Functional, Compatibility testing on different browsers like Firefox & Chrome. • Defect tracking & Bug Reporting. Project: 2 Client: Hospital Management Role: Software Test Engineer Team Size: 4  EDUCATION  B-Tech  Kuppam Engineering College -  Kuppam, Andhra Pradesh  2014  Education, A.P  Vani Jr college  October 1977 to 2010  Education, A.P  Padmavani High School  2008  ADDITIONAL INFORMATION  Technical Skills: Tools: Manual Testing, Selenium (Selenium IDE, Selenium Web Driver), Eclipse IDE. Languages: C, Core Java Database: SQL Operating Systems: Windows XP, 7, 8 Management Tool: HP Quality Center Defect Tracking Tool: JIRA  Projects Summary:  Technologies: J2EE, Oracle 10g, Windows 7 Used Tools: Selenium, Core Java, HPQC and Eclipse. Duration: September 2014 to December 2014. Project Description: In this project, we maintain all details about Hospital details like- Hospital address, Consultant Doctor, Doctor Details, Permanent Doctor, Medicine, Lab Test, In Patient, Out Patient etc. Responsibilities: • Prepared and Executed Test Cases as per Client Requirements. • Participated in identifying the test scenarios and designing the test cases. • Performed Manual Testing on some modules.    • Feasibility analysis of Manual Test Cases. • Performed Functional, Compatibility testing on different browsers like Firefox & Chrome. • Defect tracking & Bug Reporting.",
     "entities": [
-      [
-        1072,
-        1076,
-        "GRADUATION_YEAR"
-      ],
       [
         1072,
         1076,
@@ -3778,11 +2518,6 @@
         "COLLEGE_NAME"
       ],
       [
-        1072,
-        1076,
-        "GRADUATION_YEAR"
-      ],
-      [
         2364,
         2390,
         "COLLEGE_NAME"
@@ -3796,66 +2531,6 @@
         214,
         236,
         "DESIGNATION"
-      ],
-      [
-        1072,
-        1076,
-        "GRADUATION_YEAR"
-      ],
-      [
-        1072,
-        1076,
-        "GRADUATION_YEAR"
-      ],
-      [
-        214,
-        236,
-        "DESIGNATION"
-      ],
-      [
-        1072,
-        1076,
-        "GRADUATION_YEAR"
-      ],
-      [
-        1072,
-        1076,
-        "GRADUATION_YEAR"
-      ],
-      [
-        1072,
-        1076,
-        "GRADUATION_YEAR"
-      ],
-      [
-        1072,
-        1076,
-        "GRADUATION_YEAR"
-      ],
-      [
-        185,
-        200,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        214,
-        236,
-        "DESIGNATION"
-      ],
-      [
-        1072,
-        1076,
-        "GRADUATION_YEAR"
-      ],
-      [
-        1072,
-        1076,
-        "GRADUATION_YEAR"
-      ],
-      [
-        185,
-        200,
-        "COMPANIES_WORKED_AT"
       ],
       [
         185,
@@ -3913,11 +2588,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        2037,
-        2042,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1600,
         1605,
         "COMPANIES_WORKED_AT"
@@ -3926,36 +2596,6 @@
         2711,
         2735,
         "DESIGNATION"
-      ],
-      [
-        1573,
-        1596,
-        "DESIGNATION"
-      ],
-      [
-        1600,
-        1605,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        2037,
-        2042,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        2037,
-        2042,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1573,
-        1596,
-        "DESIGNATION"
-      ],
-      [
-        1600,
-        1605,
-        "COMPANIES_WORKED_AT"
       ],
       [
         1573,
@@ -3998,69 +2638,14 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         3466,
         3819,
         "SKILLS"
       ],
       [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         56,
         98,
         "EMAIL_ADDRESS"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
       ],
       [
         1089,
@@ -4093,19 +2678,9 @@
         "LOCATION"
       ],
       [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         810,
         850,
         "DESIGNATION"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
       ],
       [
         709,
@@ -4113,54 +2688,14 @@
         "DESIGNATION"
       ],
       [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         245,
         254,
         "DESIGNATION"
-      ],
-      [
-        389,
-        393,
-        "GRADUATION_YEAR"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        245,
-        254,
-        "DESIGNATION"
-      ],
-      [
-        210,
-        216,
-        "COMPANIES_WORKED_AT"
       ],
       [
         105,
         114,
         "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        56,
-        98,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        13,
-        22,
-        "LOCATION"
       ],
       [
         0,
@@ -4213,16 +2748,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        45,
-        50,
-        "LOCATION"
-      ],
-      [
-        15,
-        43,
-        "DESIGNATION"
-      ],
-      [
         0,
         14,
         "NAME"
@@ -4273,44 +2798,9 @@
         "DEGREE"
       ],
       [
-        40,
-        49,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        40,
-        49,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        3029,
-        3033,
-        "GRADUATION_YEAR"
-      ],
-      [
         51,
         60,
         "LOCATION"
-      ],
-      [
-        40,
-        49,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        37,
-        "DESIGNATION"
-      ],
-      [
-        51,
-        60,
-        "LOCATION"
-      ],
-      [
-        40,
-        49,
-        "COMPANIES_WORKED_AT"
       ],
       [
         14,
@@ -4321,21 +2811,6 @@
         94,
         137,
         "EMAIL_ADDRESS"
-      ],
-      [
-        51,
-        60,
-        "LOCATION"
-      ],
-      [
-        40,
-        49,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        37,
-        "DESIGNATION"
       ],
       [
         0,
@@ -4368,11 +2843,6 @@
         "COLLEGE_NAME"
       ],
       [
-        837,
-        841,
-        "GRADUATION_YEAR"
-      ],
-      [
         31,
         40,
         "LOCATION"
@@ -4393,11 +2863,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        342,
-        351,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         319,
         340,
         "DESIGNATION"
@@ -4405,11 +2870,6 @@
       [
         74,
         118,
-        "LOCATION"
-      ],
-      [
-        31,
-        40,
         "LOCATION"
       ],
       [
@@ -4458,26 +2918,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        194,
-        203,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        36,
-        "DESIGNATION"
-      ],
-      [
-        77,
-        119,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        38,
-        45,
-        "LOCATION"
-      ],
-      [
         13,
         36,
         "DESIGNATION"
@@ -4513,26 +2953,11 @@
         "GRADUATION_YEAR"
       ],
       [
-        26,
-        35,
-        "LOCATION"
-      ],
-      [
-        26,
-        35,
-        "LOCATION"
-      ],
-      [
         1794,
         1826,
         "DEGREE"
       ],
       [
-        254,
-        258,
-        "GRADUATION_YEAR"
-      ],
-      [
         236,
         243,
         "COMPANIES_WORKED_AT"
@@ -4541,45 +2966,10 @@
         11,
         24,
         "DESIGNATION"
-      ],
-      [
-        236,
-        243,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        24,
-        "DESIGNATION"
-      ],
-      [
-        254,
-        258,
-        "GRADUATION_YEAR"
-      ],
-      [
-        236,
-        243,
-        "COMPANIES_WORKED_AT"
       ],
       [
         219,
         234,
-        "DESIGNATION"
-      ],
-      [
-        26,
-        35,
-        "LOCATION"
-      ],
-      [
-        26,
-        35,
-        "LOCATION"
-      ],
-      [
-        11,
-        24,
         "DESIGNATION"
       ],
       [
@@ -4618,11 +3008,6 @@
         "GRADUATION_YEAR"
       ],
       [
-        330,
-        334,
-        "GRADUATION_YEAR"
-      ],
-      [
         249,
         305,
         "COLLEGE_NAME"
@@ -4651,11 +3036,6 @@
         68,
         120,
         "EMAIL_ADDRESS"
-      ],
-      [
-        22,
-        32,
-        "LOCATION"
       ],
       [
         0,
@@ -4703,16 +3083,6 @@
         "DESIGNATION"
       ],
       [
-        25,
-        33,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        22,
-        "DESIGNATION"
-      ],
-      [
         82,
         124,
         "EMAIL_ADDRESS"
@@ -4721,16 +3091,6 @@
         35,
         44,
         "LOCATION"
-      ],
-      [
-        25,
-        33,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        22,
-        "DESIGNATION"
       ],
       [
         0,
@@ -4783,29 +3143,9 @@
         "DESIGNATION"
       ],
       [
-        13,
-        26,
-        "DESIGNATION"
-      ],
-      [
-        13,
-        26,
-        "DESIGNATION"
-      ],
-      [
-        68,
-        110,
-        "EMAIL_ADDRESS"
-      ],
-      [
         29,
         44,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        26,
-        "DESIGNATION"
       ],
       [
         0,
@@ -4868,36 +3208,6 @@
         "DESIGNATION"
       ],
       [
-        1913,
-        1917,
-        "GRADUATION_YEAR"
-      ],
-      [
-        1913,
-        1917,
-        "GRADUATION_YEAR"
-      ],
-      [
-        1880,
-        1885,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1880,
-        1885,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1913,
-        1917,
-        "GRADUATION_YEAR"
-      ],
-      [
-        236,
-        245,
-        "LOCATION"
-      ],
-      [
         1880,
         1885,
         "COMPANIES_WORKED_AT"
@@ -4913,16 +3223,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        236,
-        245,
-        "LOCATION"
-      ],
-      [
-        438,
-        448,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         417,
         436,
         "DESIGNATION"
@@ -4931,16 +3231,6 @@
         279,
         330,
         "EMAIL_ADDRESS"
-      ],
-      [
-        236,
-        245,
-        "LOCATION"
-      ],
-      [
-        83,
-        96,
-        "DEGREE"
       ],
       [
         55,
@@ -5003,19 +3293,9 @@
         "DEGREE"
       ],
       [
-        124,
-        134,
-        "DEGREE"
-      ],
-      [
         81,
         119,
         "EMAIL_ADDRESS"
-      ],
-      [
-        1032,
-        1038,
-        "COMPANIES_WORKED_AT"
       ],
       [
         1032,
@@ -5026,21 +3306,6 @@
         1009,
         1030,
         "DESIGNATION"
-      ],
-      [
-        124,
-        134,
-        "DEGREE"
-      ],
-      [
-        124,
-        134,
-        "DEGREE"
-      ],
-      [
-        81,
-        119,
-        "EMAIL_ADDRESS"
       ],
       [
         32,
@@ -5075,11 +3340,6 @@
       [
         210,
         213,
-        "SKILLS"
-      ],
-      [
-        203,
-        207,
         "SKILLS"
       ],
       [
@@ -5158,21 +3418,6 @@
         "DEGREE"
       ],
       [
-        203,
-        207,
-        "SKILLS"
-      ],
-      [
-        210,
-        213,
-        "SKILLS"
-      ],
-      [
-        222,
-        226,
-        "SKILLS"
-      ],
-      [
         185,
         195,
         "SKILLS"
@@ -5188,129 +3433,14 @@
         "DESIGNATION"
       ],
       [
-        222,
-        226,
-        "SKILLS"
-      ],
-      [
         56,
         96,
         "EMAIL_ADDRESS"
-      ],
-      [
-        203,
-        207,
-        "SKILLS"
-      ],
-      [
-        210,
-        213,
-        "SKILLS"
-      ],
-      [
-        222,
-        226,
-        "SKILLS"
-      ],
-      [
-        185,
-        195,
-        "SKILLS"
-      ],
-      [
-        819,
-        835,
-        "DESIGNATION"
-      ],
-      [
-        812,
-        835,
-        "DESIGNATION"
       ],
       [
         784,
         810,
         "DESIGNATION"
-      ],
-      [
-        216,
-        220,
-        "SKILLS"
-      ],
-      [
-        203,
-        207,
-        "SKILLS"
-      ],
-      [
-        255,
-        272,
-        "SKILLS"
-      ],
-      [
-        250,
-        253,
-        "SKILLS"
-      ],
-      [
-        228,
-        238,
-        "SKILLS"
-      ],
-      [
-        222,
-        226,
-        "SKILLS"
-      ],
-      [
-        216,
-        220,
-        "SKILLS"
-      ],
-      [
-        210,
-        214,
-        "SKILLS"
-      ],
-      [
-        210,
-        213,
-        "SKILLS"
-      ],
-      [
-        203,
-        208,
-        "SKILLS"
-      ],
-      [
-        203,
-        207,
-        "SKILLS"
-      ],
-      [
-        197,
-        201,
-        "SKILLS"
-      ],
-      [
-        185,
-        195,
-        "SKILLS"
-      ],
-      [
-        27,
-        32,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        24,
-        "DESIGNATION"
-      ],
-      [
-        56,
-        96,
-        "EMAIL_ADDRESS"
       ],
       [
         27,
@@ -5378,16 +3508,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        59,
-        68,
-        "LOCATION"
-      ],
-      [
-        42,
-        57,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         17,
         39,
         "DESIGNATION"
@@ -5396,21 +3516,6 @@
         102,
         149,
         "EMAIL_ADDRESS"
-      ],
-      [
-        59,
-        68,
-        "LOCATION"
-      ],
-      [
-        42,
-        57,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        17,
-        39,
-        "DESIGNATION"
       ],
       [
         0,
@@ -5425,11 +3530,6 @@
       [
         790,
         794,
-        "SKILLS"
-      ],
-      [
-        667,
-        670,
         "SKILLS"
       ],
       [
@@ -5483,21 +3583,6 @@
         "SKILLS"
       ],
       [
-        790,
-        794,
-        "SKILLS"
-      ],
-      [
-        667,
-        670,
-        "SKILLS"
-      ],
-      [
-        58,
-        67,
-        "LOCATION"
-      ],
-      [
         58,
         67,
         "LOCATION"
@@ -5506,151 +3591,6 @@
         3312,
         3348,
         "COLLEGE_NAME"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        2596,
-        2618,
-        "DESIGNATION"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1051,
-        1057,
-        "SKILLS"
-      ],
-      [
-        1051,
-        1057,
-        "SKILLS"
-      ],
-      [
-        790,
-        794,
-        "SKILLS"
-      ],
-      [
-        667,
-        670,
-        "SKILLS"
-      ],
-      [
-        667,
-        670,
-        "SKILLS"
-      ],
-      [
-        58,
-        67,
-        "LOCATION"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        2596,
-        2618,
-        "DESIGNATION"
-      ],
-      [
-        58,
-        67,
-        "LOCATION"
-      ],
-      [
-        3540,
-        3545,
-        "SKILLS"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        3540,
-        3545,
-        "SKILLS"
-      ],
-      [
-        3540,
-        3545,
-        "SKILLS"
-      ],
-      [
-        3540,
-        3545,
-        "SKILLS"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        3540,
-        3545,
-        "SKILLS"
-      ],
-      [
-        1051,
-        1057,
-        "SKILLS"
-      ],
-      [
-        667,
-        670,
-        "SKILLS"
-      ],
-      [
-        3540,
-        3545,
-        "SKILLS"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        3540,
-        3545,
-        "SKILLS"
-      ],
-      [
-        667,
-        670,
-        "SKILLS"
-      ],
-      [
-        790,
-        794,
-        "SKILLS"
-      ],
-      [
-        3540,
-        3545,
-        "SKILLS"
-      ],
-      [
-        790,
-        794,
-        "SKILLS"
       ],
       [
         2596,
@@ -5663,38 +3603,13 @@
         "GRADUATION_YEAR"
       ],
       [
-        58,
-        67,
-        "LOCATION"
-      ],
-      [
-        3312,
-        3348,
-        "COLLEGE_NAME"
-      ],
-      [
         3300,
         3306,
         "DEGREE"
       ],
       [
-        790,
-        794,
-        "SKILLS"
-      ],
-      [
         3248,
         3267,
-        "SKILLS"
-      ],
-      [
-        667,
-        670,
-        "SKILLS"
-      ],
-      [
-        667,
-        670,
         "SKILLS"
       ],
       [
@@ -5706,11 +3621,6 @@
         3219,
         3234,
         "SKILLS"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
       ],
       [
         3083,
@@ -5753,74 +3663,9 @@
         "SKILLS"
       ],
       [
-        2650,
-        2654,
-        "GRADUATION_YEAR"
-      ],
-      [
-        58,
-        67,
-        "LOCATION"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        2596,
-        2618,
-        "DESIGNATION"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1051,
-        1057,
-        "SKILLS"
-      ],
-      [
-        1051,
-        1057,
-        "SKILLS"
-      ],
-      [
-        790,
-        794,
-        "SKILLS"
-      ],
-      [
-        667,
-        670,
-        "SKILLS"
-      ],
-      [
-        667,
-        670,
-        "SKILLS"
-      ],
-      [
         101,
         148,
         "EMAIL_ADDRESS"
-      ],
-      [
-        58,
-        67,
-        "LOCATION"
-      ],
-      [
-        50,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        34,
-        48,
-        "DESIGNATION"
       ],
       [
         17,
@@ -5837,26 +3682,6 @@
   {
     "text": "Pratibha P Principal Consultant at Oracle  Bengaluru, Karnataka - Email me on Indeed: indeed.com/r/Pratibha-P/b4c1202741d63c6c  Over 14 years of experience in estimation, design, development, implementation, testing and enhancement of various Oracle applications. Currently working as Principal Consultant (Oracle Applications) with the consulting group Global Service Delivery (GSD) of Oracle India Pvt Ltd, Bangalore. Possesses excellent communication, extensive functional and technical experience in implementing Oracle E-business Suite applications. Worked on various modules like AR, AP, GL, FA, OLFM, HRMS and PO. Has gained proficiency in Oracle 9i/10g, SQL, PL/SQL, Discoverer 10g, Oracle reports 6i/10g, BI Publisher reports, OEM (For data masking), Methodologies (Oracle AIM, OUM) & Migration Tool (Kintana)  Willing to relocate to: Bangalore City, Karnataka  WORK EXPERIENCE  Principal Consultant  Oracle -  July 2012 to Present  Over 14 years of experience in estimation, design, development, implementation, testing and enhancement of various Oracle applications. Currently working as Principal Consultant (Oracle Applications) with the consulting group Global Service Delivery (GSD) of Oracle India Pvt Ltd, Bangalore. Possesses excellent communication, extensive functional and technical experience in implementing Oracle E-business Suite applications. Worked on various modules like AR, AP, GL, FA, OLFM, HRMS and PO. Has gained proficiency in Oracle 9i/10g, SQL, PL/SQL, Discoverer 10g, Oracle reports 6i/10g, BI Publisher reports, OEM(For data masking),Methodologies(Oracle AIM,OUM)& Migration Tool(Kintana)  Senor Consultant  Oracle -  2011 to July 2011  Staff Consultant  Caterpillar -  December 2005 to December 2007  Duration/Size: 4 months/10  Associate Consultant  Caterpillar -  October 2004 to December 2005  https://www.indeed.com/r/Pratibha-P/b4c1202741d63c6c?isid=rex-download&ikw=download-top&co=IN   Duration/Size: 4 months/10  Associate Consultant  Vault Consulting -  October 2003 to October 2004  Project Name: AMAT Client: Applied Materials Duration/Size: 1 months/3 Organization: Oracle Environment: Oracle Applications (11i) Responsibilities: AMAT was an implementation project. I was involved in developing complex Discoverer reports which fully meets the objectives for forecasting the history and exception details of AMAT's buyers/Suppliers with capability to review FGI (Finished Goods Inventory), LLI (Linked Level Inventory) details  Project Name: Dollar General Client: Dollar General Duration/Size: 2 months/3 Organization: Oracle Environment: Data Warehousing Responsibilities: Dollar General was an implementation project. I was involved in developing Discoverer reports.  Project Name: Emerson Client: Emerson Process Management Duration/Size: 2 months/3 Organization: Oracle Environment: Data Warehousing Responsibilities: Dollar General was an implementation project. I was involved in developing Discoverer report for each division-country, division-world area and total division (single reports) . The divisions were also compared against each other (comparison reports)  EDUCATION  B.E  Visvesvaraya Technological University  2017  Bachelor of Engineering in Engineering  Dayanand Sagar College of Engineering Bangalore (Visvesvaraya Technological University) - Sagar, Karnataka    SKILLS  Extension, PLSQL, BI Publisher Reports, Oracle Reports, AP, HRMS, GL, Conversion, Oracle Apps technical, Interface, AR, TOAD, OLFM, SQL, FA  ADDITIONAL INFORMATION  Software Skills:  ERP-Oracle Applications 11i, R12 Accounts Receivable, Accounts Payable, Fixed Assets, General Ledger, Oracle Lease and Finance Management, Purchasing and HRMS (Employee, Assignment, Contacts, Pay methods, Job and Location)  RDBMS Oracle […] LANGUAGES C++ TOOLS Toad, SQL Developer, Kintana, Report Builder 6i/10g, Discoverer Admin/Desktop/Plus/ Viewer and BI Publisher",
     "entities": [
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
       [
         35,
         41,
@@ -5883,144 +3708,19 @@
         "DEGREE"
       ],
       [
-        3142,
-        3179,
-        "COLLEGE_NAME"
-      ],
-      [
         3137,
         3140,
         "DEGREE"
       ],
       [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         11,
         31,
         "DESIGNATION"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        31,
-        "DESIGNATION"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        31,
-        "DESIGNATION"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
       ],
       [
         43,
         52,
         "LOCATION"
-      ],
-      [
-        35,
-        41,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        31,
-        "DESIGNATION"
       ],
       [
         0,
@@ -6038,34 +3738,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         2861,
         3073,
         "SKILLS"
-      ],
-      [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
       ],
       [
         1145,
@@ -6078,59 +3753,14 @@
         "DESIGNATION"
       ],
       [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         77,
         82,
         "LOCATION"
-      ],
-      [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        65,
-        "DESIGNATION"
-      ],
-      [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
       ],
       [
         121,
         162,
         "EMAIL_ADDRESS"
-      ],
-      [
-        77,
-        82,
-        "LOCATION"
-      ],
-      [
-        68,
-        71,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        65,
-        "DESIGNATION"
       ],
       [
         0,
@@ -6153,11 +3783,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        784,
-        789,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         3121,
         3334,
         "SKILLS"
@@ -6166,11 +3791,6 @@
         2989,
         3086,
         "SKILLS"
-      ],
-      [
-        2906,
-        2936,
-        "COLLEGE_NAME"
       ],
       [
         2906,
@@ -6201,26 +3821,6 @@
         2775,
         2802,
         "DEGREE"
-      ],
-      [
-        784,
-        789,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        784,
-        789,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        784,
-        789,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        784,
-        789,
-        "COMPANIES_WORKED_AT"
       ],
       [
         53,
@@ -6308,11 +3908,6 @@
         "DEGREE"
       ],
       [
-        403,
-        407,
-        "GRADUATION_YEAR"
-      ],
-      [
         268,
         288,
         "COMPANIES_WORKED_AT"
@@ -6331,11 +3926,6 @@
         42,
         51,
         "LOCATION"
-      ],
-      [
-        13,
-        40,
-        "DESIGNATION"
       ],
       [
         0,
@@ -6393,11 +3983,6 @@
         "DESIGNATION"
       ],
       [
-        12,
-        29,
-        "DESIGNATION"
-      ],
-      [
         133,
         142,
         "YEARS_OF_EXPERIENCE"
@@ -6411,11 +3996,6 @@
         32,
         38,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        29,
-        "DESIGNATION"
       ],
       [
         0,
@@ -6453,16 +4033,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        20,
-        40,
-        "DESIGNATION"
-      ],
-      [
-        13,
-        40,
-        "DESIGNATION"
-      ],
-      [
         183,
         190,
         "YEARS_OF_EXPERIENCE"
@@ -6481,16 +4051,6 @@
         43,
         64,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        40,
-        "DESIGNATION"
-      ],
-      [
-        13,
-        40,
-        "DESIGNATION"
       ],
       [
         0,
@@ -6558,19 +4118,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        47,
-        57,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         2041,
         2053,
         "DESIGNATION"
-      ],
-      [
-        47,
-        57,
-        "COMPANIES_WORKED_AT"
       ],
       [
         1960,
@@ -6578,39 +4128,9 @@
         "DESIGNATION"
       ],
       [
-        47,
-        57,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1718,
         1744,
         "DESIGNATION"
-      ],
-      [
-        47,
-        57,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1718,
-        1744,
-        "DESIGNATION"
-      ],
-      [
-        47,
-        57,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        47,
-        57,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        47,
-        57,
-        "COMPANIES_WORKED_AT"
       ],
       [
         15,
@@ -6626,26 +4146,6 @@
         81,
         125,
         "EMAIL_ADDRESS"
-      ],
-      [
-        47,
-        57,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        47,
-        57,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        44,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        44,
-        "DESIGNATION"
       ],
       [
         0,
@@ -6698,19 +4198,9 @@
         "DESIGNATION"
       ],
       [
-        79,
-        118,
-        "EMAIL_ADDRESS"
-      ],
-      [
         36,
         45,
         "LOCATION"
-      ],
-      [
-        10,
-        34,
-        "DESIGNATION"
       ],
       [
         0,
@@ -6773,36 +4263,6 @@
         "SKILLS"
       ],
       [
-        3735,
-        3738,
-        "SKILLS"
-      ],
-      [
-        3707,
-        3714,
-        "SKILLS"
-      ],
-      [
-        3682,
-        3686,
-        "SKILLS"
-      ],
-      [
-        3653,
-        3661,
-        "SKILLS"
-      ],
-      [
-        3603,
-        3612,
-        "SKILLS"
-      ],
-      [
-        3603,
-        3612,
-        "SKILLS"
-      ],
-      [
         3589,
         3593,
         "GRADUATION_YEAR"
@@ -6838,19 +4298,9 @@
         "DEGREE"
       ],
       [
-        1334,
-        1338,
-        "GRADUATION_YEAR"
-      ],
-      [
         9,
         18,
         "LOCATION"
-      ],
-      [
-        137,
-        146,
-        "COMPANIES_WORKED_AT"
       ],
       [
         1269,
@@ -6858,24 +4308,9 @@
         "DESIGNATION"
       ],
       [
-        137,
-        146,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        137,
-        146,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         52,
         89,
         "EMAIL_ADDRESS"
-      ],
-      [
-        9,
-        18,
-        "LOCATION"
       ],
       [
         0,
@@ -6923,44 +4358,9 @@
         "GRADUATION_YEAR"
       ],
       [
-        3894,
-        3898,
-        "GRADUATION_YEAR"
-      ],
-      [
-        3877,
-        3892,
-        "COLLEGE_NAME"
-      ],
-      [
         3824,
         3875,
         "DEGREE"
-      ],
-      [
-        2967,
-        2971,
-        "GRADUATION_YEAR"
-      ],
-      [
-        45,
-        52,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        45,
-        52,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        45,
-        52,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        45,
-        52,
-        "COMPANIES_WORKED_AT"
       ],
       [
         97,
@@ -6971,11 +4371,6 @@
         54,
         63,
         "LOCATION"
-      ],
-      [
-        45,
-        52,
-        "COMPANIES_WORKED_AT"
       ],
       [
         11,
@@ -6998,73 +4393,13 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1702,
         1706,
         "SKILLS"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
       ],
       [
         3080,
         3097,
-        "SKILLS"
-      ],
-      [
-        2993,
-        3011,
-        "SKILLS"
-      ],
-      [
-        1702,
-        1706,
         "SKILLS"
       ],
       [
@@ -7083,86 +4418,6 @@
         "DEGREE"
       ],
       [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1702,
-        1706,
-        "SKILLS"
-      ],
-      [
-        101,
-        143,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1702,
-        1706,
-        "SKILLS"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        61,
-        65,
-        "LOCATION"
-      ],
-      [
-        61,
-        65,
-        "LOCATION"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        61,
-        65,
-        "LOCATION"
-      ],
-      [
-        61,
-        65,
-        "LOCATION"
-      ],
-      [
-        328,
-        332,
-        "DEGREE"
-      ],
-      [
-        61,
-        65,
-        "LOCATION"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         101,
         143,
         "EMAIL_ADDRESS"
@@ -7171,11 +4426,6 @@
         61,
         65,
         "LOCATION"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
       ],
       [
         13,
@@ -7208,11 +4458,6 @@
         "SKILLS"
       ],
       [
-        14,
-        19,
-        "LOCATION"
-      ],
-      [
         537,
         555,
         "DEGREE"
@@ -7231,16 +4476,6 @@
         338,
         364,
         "DESIGNATION"
-      ],
-      [
-        53,
-        96,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        14,
-        19,
-        "LOCATION"
       ],
       [
         0,
@@ -7268,21 +4503,6 @@
         "DEGREE"
       ],
       [
-        2207,
-        2211,
-        "GRADUATION_YEAR"
-      ],
-      [
-        2207,
-        2211,
-        "GRADUATION_YEAR"
-      ],
-      [
-        55,
-        70,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         55,
         70,
         "COMPANIES_WORKED_AT"
@@ -7296,16 +4516,6 @@
         72,
         78,
         "LOCATION"
-      ],
-      [
-        55,
-        70,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        52,
-        "DESIGNATION"
       ],
       [
         0,
@@ -7348,81 +4558,6 @@
         "LOCATION"
       ],
       [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        47,
-        54,
-        "LOCATION"
-      ],
-      [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        47,
-        54,
-        "LOCATION"
-      ],
-      [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        47,
-        54,
-        "LOCATION"
-      ],
-      [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        47,
-        54,
-        "LOCATION"
-      ],
-      [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         13,
         34,
         "DESIGNATION"
@@ -7431,111 +4566,6 @@
         90,
         132,
         "EMAIL_ADDRESS"
-      ],
-      [
-        47,
-        54,
-        "LOCATION"
-      ],
-      [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        1042,
-        1051,
-        "SKILLS"
-      ],
-      [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        47,
-        54,
-        "LOCATION"
-      ],
-      [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        47,
-        54,
-        "LOCATION"
-      ],
-      [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        47,
-        54,
-        "LOCATION"
-      ],
-      [
-        90,
-        132,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        47,
-        54,
-        "LOCATION"
-      ],
-      [
-        37,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        13,
-        34,
-        "DESIGNATION"
       ],
       [
         0,
@@ -7583,24 +4613,9 @@
         "COLLEGE_NAME"
       ],
       [
-        885,
-        889,
-        "GRADUATION_YEAR"
-      ],
-      [
-        2412,
-        2445,
-        "COLLEGE_NAME"
-      ],
-      [
         2372,
         2410,
         "DEGREE"
-      ],
-      [
-        2323,
-        2327,
-        "COLLEGE_NAME"
       ],
       [
         2295,
@@ -7618,21 +4633,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        885,
-        889,
-        "GRADUATION_YEAR"
-      ],
-      [
-        166,
-        174,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        166,
-        174,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         120,
         124,
         "LOCATION"
@@ -7641,11 +4641,6 @@
         88,
         118,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        31,
-        69,
-        "EMAIL_ADDRESS"
       ],
       [
         0,
@@ -7683,11 +4678,6 @@
         "DEGREE"
       ],
       [
-        11267,
-        11271,
-        "GRADUATION_YEAR"
-      ],
-      [
         11235,
         11256,
         "COMPANIES_WORKED_AT"
@@ -7696,41 +4686,6 @@
         9672,
         9689,
         "DESIGNATION"
-      ],
-      [
-        43,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        9672,
-        9689,
-        "DESIGNATION"
-      ],
-      [
-        43,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        9672,
-        9689,
-        "DESIGNATION"
-      ],
-      [
-        43,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        43,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        43,
-        56,
-        "COMPANIES_WORKED_AT"
       ],
       [
         43,
@@ -7751,16 +4706,6 @@
         58,
         67,
         "LOCATION"
-      ],
-      [
-        43,
-        56,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        10,
-        40,
-        "DESIGNATION"
       ],
       [
         0,
@@ -7818,29 +4763,9 @@
         "DESIGNATION"
       ],
       [
-        113,
-        128,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1292,
         1325,
         "DESIGNATION"
-      ],
-      [
-        113,
-        128,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1292,
-        1325,
-        "DESIGNATION"
-      ],
-      [
-        256,
-        263,
-        "LOCATION"
       ],
       [
         87,
@@ -7851,21 +4776,6 @@
         298,
         350,
         "EMAIL_ADDRESS"
-      ],
-      [
-        256,
-        263,
-        "LOCATION"
-      ],
-      [
-        113,
-        128,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        87,
-        95,
-        "YEARS_OF_EXPERIENCE"
       ],
       [
         0,
@@ -7906,11 +4816,6 @@
         104,
         115,
         "DESIGNATION"
-      ],
-      [
-        43,
-        85,
-        "EMAIL_ADDRESS"
       ],
       [
         13,
@@ -8028,16 +4933,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        51,
-        60,
-        "LOCATION"
-      ],
-      [
-        14,
-        37,
-        "DESIGNATION"
-      ],
-      [
         0,
         13,
         "NAME"
@@ -8093,11 +4988,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        15,
-        41,
-        "DESIGNATION"
-      ],
-      [
         0,
         14,
         "NAME"
@@ -8107,36 +4997,6 @@
   {
     "text": "Senthil Kumar Senior Technical Lead - HCL Cisco  - Email me on Indeed: indeed.com/r/Senthil-Kumar/d9d82865dd38d449  • Result oriented Networking Professional with 11 years' experience in testing network products diversified skills includes testing ACI SDN fabric, UCSD orchestration, Routing and Switching: design, deploy and troubleshoot customer network • Extensive knowledge of Testing and Deploying network test plans, protocols, Strategies and Lab Setup. • In-depth knowledge of ACI fabric, Routing and switching protocols • Proven communication skills and the ability to troubleshoot and solve network issues • Skilled in providing support in various networking testing activities to provide effective support and handling of customer escalation and for ensuring timely and effective support  WORK EXPERIENCE  Senior Technical Lead  HCL Cisco -  Bengaluru, Karnataka -  October 2015 to Present  Project Title: Feature testing and Deployment on ACI fabric for Cisco IT and UCSD  • ACI Fabric deployment in single POD and Multi-POD environment • Deployed Cisco ACI Multi-Site Controller with ACI fabric for Testing stretched EPG's between Data centers • Deployed Cisco IT replica Setup in Local Lab • Handling Cisco IT customer network and pre-deployment of image testing before handing to CISCO IT Customer • End to end testing of Cisco IT test bed, upgrade and downgrade of Various images • Configured SDN Controller (APIC) Decommissioned and Commissioned in Cluster • Configured UCS manager • APIC upgrade downgrade, Cisco Nexus 9k leaf spine downgrade upgrade testing. • Bring up ACI leaf and spine fabric with UCS fabric interconnect • Implementation of VMware DVS and Cisco AVS in Esxi host and tested the AVS functionality • Tested redundancy testing on leaf, spine and fabric interconnect • Communicated inconsistencies between System Specifications and Test Results to development and/or analyst team • Involved in Defect Review meetings escalating and prioritizing issues effectively • Experience in implementation of VMware Infrastructure 5.5 / 6.0 • Managed Virtualization environment using VMware EXI 5.5/6.0, Vcenter 5.5/6.0 • Creating and Managing virtual machines and Templates  https://www.indeed.com/r/Senthil-Kumar/d9d82865dd38d449?isid=rex-download&ikw=download-top&co=IN   • Migration of VM using Vmotion between Clusters • Configured Windows iSCSI SAN and integrated to VMware • Testing Cisco APIC with UCSD integration with Multi Site Controller  Technical Lead  Aricent Cisco -  July 2012 to September 2015  Client Cisco Systems Project Title: Feature testing and Deployment on CISCO CARRIER PACKET TRANSPORT  • Worked on EFT with Bharti Telecom and China Telecom Demo for 9.7 rings features • Conducting the Dev-test activities for CTP for Rings 9.7 feature. Bring up new setup, • Written test cases for CPT 50 Ring feature to test REP and also to validate MPLS TP and P2MP EVC • Tested MPLS TP, single segment and multi-segment Pseudowire, P2MP EVC, REP features. • Tested EVC P2MP type on that carried out Single tag, Double tab of 802.1q and Dot1ad • Based on Cisco Resilient Ethernet Protocol feature CPT 9.7 testing is carried out. • Created open and closed end segment for REP topology and tested Rings CTP 9.7 feature • Tested Mac learning, aging, flushing and limiting features • Tested multiple frame size and JUMBO frame verification with MPLS TP • Tested Link Aggregation verification with MPLS TP • Tested Memory Backup verification with fully loaded CPT configuration • Hardware redundant Plug in and Plug out Circuit Pack test and High availability testing for CTP 600 • Network Protection verification testing with MPLS TP working LSP and Protected LSP • Tested DHCP Snooping • Tested EVC P2MP type on that carried out Single tag, Double tab of 802.1q and Dot1ad • Tested Mac learning, aging and limiting features • Supporting customer queries for the product  Technical Lead  Aricent Group -  December 2011 to June 2012  Client KeyMile Germany  • Conducting the Dev-test activities for Eth-Sys series switch. Bring up new setup, preparation of FT test plan, derive test estimate for the Release. • Tested the various images submitted by release -ops team • Carried out manual testing on Vlan 802.1Q ( Mac aging, Mac flooding, Tag and untag) using SNMP mib browser and Aricent ISS • Written test cases for RSTP and MSTP features and tested it. • Debug the failures by configuring the test bed manually and filing the defects  Technical Lead (HCL)    Client Cisco Systems -  January 2010 to December 2011  Cisco 12000 Gigabit Switching Router)  • Performed the Role of Technical lead for a team member size of 4 • Test the various images submitted by release -ops team • Carried out manual testing of Connection Server (HSRP) and OSPF features to verify the functionality • Tested OSPF point to point and Broadcast network • Bring up new setup, prepare test plan, derive test cases and execute the test cases • Debug the failures by configuring the test bed manually and filing the defects • Interact & co-ordinate with Dev-test and Development team to review the CFD's and script coverage. • Find defects through manual testing and verify the defects • Analyze both internal and externally found defects and come up with a plan to reduce the defects missed out in the scripts.  Test Lead (HCL)  Client Cisco Systems -  May 2007 to December 2011  Virtualization)  • Performed the Role of lead for a team member size of 5 • Image testing on ACE module and ACE 4710 Appliance. • Coordinating with onsite/offsite teams in resolving the defects found when performing Testing. • Given white paper & Presentation document in ACE High Availability and Securing ACE 4710 with ACS server • Test Plan writing, reviewing and planning test strategies. • Peer to Peer Reviews to avoid Post Delivery Defects • Lab Test Bed creation and Infrastructure Maintenance • Configured High Availability of ACE Module, ACE Appliance and ANM Servers • Configured End to End traffic Load balancing of Data center using the ACE 4710, ACE module and CSM devices • Deployed different topologies NAT, Routed and Bridged for End to End traffic Load balancing of Data center  Lab Administrator  HCL Cisco -  Chennai, Tamil Nadu -  May 2003 to June 2007  Key responsibility is to perform CISCO Network LAB Administration    EDUCATION  B.Tech in Computer Science in Computer Science  Dr MGR University Chennai -  Chennai, Tamil Nadu  SKILLS  CPT (3 years), Data Center (4 years), Ethernet (3 years), testing (10+ years), Virtualization (7 years)  LINKS  http://www.linkedin.com/in/senthil-kumar-9600101b  ADDITIONAL INFORMATION  Skills  Virtualization VMware-VSphere, DVS, Cisco AVS, Cisco ACE  SDN Cisco Application Centric Infrastructure (ACI)  L2/L3 Protocols OSPF, EIGRP, MPLS, VLAN, VXLAN, STP, RSTP, VPC  Metro Ethernet Protocols Carrier Ethernet protocols EVC, MPLS TP, PsudoWire, REP  Traffic Generation Tools Traffic tools IXIA Iexplore and Smart Bit  Testing Tools Wireshark and MIB Browser  Network Products Cisco SDN ACI Fabric VMWare 5.5 and 6.0 Cisco UCSD Orchestration Carrier Ethernet devices (CPT […] Cisco Metro Ethernet 2600 Cisco routers GSR 12000, 7600 Data center Virtualization using the ACE Nexus 5k and ACI 9K switches Cat 6500 and 3550 Switches  http://www.linkedin.com/in/senthil-kumar-9600101b",
     "entities": [
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
       [
         42,
         47,
@@ -8163,26 +5023,6 @@
         "DEGREE"
       ],
       [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         21,
         35,
         "DESIGNATION"
@@ -8193,114 +5033,14 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        21,
-        35,
-        "DESIGNATION"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        21,
-        35,
-        "DESIGNATION"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         71,
         114,
         "EMAIL_ADDRESS"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        21,
-        35,
-        "DESIGNATION"
-      ],
-      [
-        14,
-        35,
-        "DESIGNATION"
-      ],
-      [
-        71,
-        114,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        42,
-        47,
-        "COMPANIES_WORKED_AT"
       ],
       [
         38,
         41,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        21,
-        35,
-        "DESIGNATION"
-      ],
-      [
-        14,
-        35,
-        "DESIGNATION"
       ],
       [
         0,
@@ -8348,16 +5088,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        451,
-        459,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        451,
-        459,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1314,
         1330,
         "DESIGNATION"
@@ -8381,11 +5111,6 @@
         53,
         62,
         "LOCATION"
-      ],
-      [
-        13,
-        51,
-        "DESIGNATION"
       ],
       [
         0,
@@ -8428,94 +5153,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        15,
-        23,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        24,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        23,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        24,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        23,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        24,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        23,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        24,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        23,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        24,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        23,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        24,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        24,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        23,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         36,
         45,
         "LOCATION"
-      ],
-      [
-        36,
-        45,
-        "LOCATION"
-      ],
-      [
-        36,
-        45,
-        "LOCATION"
-      ],
-      [
-        15,
-        23,
-        "COMPANIES_WORKED_AT"
       ],
       [
         135,
@@ -8526,21 +5166,6 @@
         79,
         124,
         "EMAIL_ADDRESS"
-      ],
-      [
-        36,
-        45,
-        "LOCATION"
-      ],
-      [
-        24,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        23,
-        "COMPANIES_WORKED_AT"
       ],
       [
         0,
@@ -8598,11 +5223,6 @@
         "YEARS_OF_EXPERIENCE"
       ],
       [
-        34,
-        75,
-        "EMAIL_ADDRESS"
-      ],
-      [
         0,
         11,
         "NAME"
@@ -8658,104 +5278,19 @@
         "SKILLS"
       ],
       [
-        84,
-        85,
-        "SKILLS"
-      ],
-      [
         1706,
         1709,
         "SKILLS"
       ],
       [
-        78,
-        82,
-        "SKILLS"
-      ],
-      [
-        84,
-        85,
-        "SKILLS"
-      ],
-      [
         116,
         122,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        78,
-        82,
-        "SKILLS"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        78,
-        82,
-        "SKILLS"
-      ],
-      [
-        87,
-        95,
-        "SKILLS"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        2476,
-        2483,
-        "SKILLS"
-      ],
-      [
-        2476,
-        2483,
-        "SKILLS"
-      ],
-      [
-        2476,
-        2483,
-        "SKILLS"
       ],
       [
         2460,
         2473,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        2385,
-        2406,
-        "DESIGNATION"
       ],
       [
         2385,
@@ -8770,36 +5305,6 @@
       [
         2251,
         2254,
-        "SKILLS"
-      ],
-      [
-        87,
-        95,
-        "SKILLS"
-      ],
-      [
-        84,
-        85,
-        "SKILLS"
-      ],
-      [
-        78,
-        82,
-        "SKILLS"
-      ],
-      [
-        2170,
-        2173,
-        "SKILLS"
-      ],
-      [
-        2146,
-        2149,
-        "SKILLS"
-      ],
-      [
-        2121,
-        2125,
         "SKILLS"
       ],
       [
@@ -8828,94 +5333,9 @@
         "DEGREE"
       ],
       [
-        1706,
-        1709,
-        "SKILLS"
-      ],
-      [
-        78,
-        82,
-        "SKILLS"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        78,
-        82,
-        "SKILLS"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        78,
-        82,
-        "SKILLS"
-      ],
-      [
-        87,
-        95,
-        "SKILLS"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        502,
-        506,
-        "GRADUATION_YEAR"
-      ],
-      [
         52,
         60,
         "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        116,
-        141,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
       ],
       [
         17,
@@ -8926,46 +5346,6 @@
         187,
         234,
         "EMAIL_ADDRESS"
-      ],
-      [
-        116,
-        141,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        116,
-        122,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        97,
-        112,
-        "SKILLS"
-      ],
-      [
-        87,
-        95,
-        "SKILLS"
-      ],
-      [
-        84,
-        85,
-        "SKILLS"
-      ],
-      [
-        78,
-        82,
-        "SKILLS"
-      ],
-      [
-        52,
-        60,
-        "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        17,
-        46,
-        "DESIGNATION"
       ],
       [
         0,
@@ -8983,109 +5363,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         430,
         450,
         "DESIGNATION"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        84,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        430,
-        450,
-        "DESIGNATION"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        430,
-        450,
-        "DESIGNATION"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        84,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        430,
-        450,
-        "DESIGNATION"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        84,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "SKILLS"
       ],
       [
         2557,
@@ -9108,114 +5388,14 @@
         "DEGREE"
       ],
       [
-        60,
-        84,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         47,
         56,
         "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        430,
-        450,
-        "DESIGNATION"
-      ],
-      [
-        60,
-        84,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        430,
-        450,
-        "DESIGNATION"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        84,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        47,
-        56,
-        "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        494,
-        498,
-        "GRADUATION_YEAR"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        430,
-        450,
-        "DESIGNATION"
-      ],
-      [
-        60,
-        84,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
       ],
       [
         118,
         126,
         "LOCATION"
-      ],
-      [
-        60,
-        84,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        60,
-        66,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        47,
-        56,
-        "YEARS_OF_EXPERIENCE"
       ],
       [
         0,
@@ -9258,29 +5438,9 @@
         "DEGREE"
       ],
       [
-        2082,
-        2086,
-        "GRADUATION_YEAR"
-      ],
-      [
         50,
         56,
         "LOCATION"
-      ],
-      [
-        15,
-        30,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        30,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        30,
-        "DESIGNATION"
       ],
       [
         15,
@@ -9298,19 +5458,9 @@
         "EMAIL_ADDRESS"
       ],
       [
-        50,
-        56,
-        "LOCATION"
-      ],
-      [
         33,
         48,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        30,
-        "DESIGNATION"
       ],
       [
         0,
@@ -9353,19 +5503,9 @@
         "DESIGNATION"
       ],
       [
-        45,
-        60,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         22,
         39,
         "DESIGNATION"
-      ],
-      [
-        62,
-        69,
-        "LOCATION"
       ],
       [
         0,
@@ -9383,24 +5523,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        139,
-        144,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        139,
-        144,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         56,
         99,
         "EMAIL_ADDRESS"
-      ],
-      [
-        139,
-        144,
-        "COMPANIES_WORKED_AT"
       ],
       [
         415,
@@ -9428,44 +5553,19 @@
         "DEGREE"
       ],
       [
-        280,
-        297,
-        "COLLEGE_NAME"
-      ],
-      [
         275,
         278,
         "DEGREE"
       ],
       [
-        139,
-        144,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         14,
         20,
         "LOCATION"
-      ],
-      [
-        139,
-        144,
-        "COMPANIES_WORKED_AT"
       ],
       [
         118,
         137,
         "DESIGNATION"
-      ],
-      [
-        56,
-        99,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        14,
-        20,
-        "LOCATION"
       ],
       [
         0,
@@ -9477,11 +5577,6 @@
   {
     "text": "Soumya Balan IT SUPPORT  Sulthan Bathery, Kerala, Kerala - Email me on Indeed: indeed.com/r/Soumya- Balan/97ead9542c575355  ➢ To work in a progressive organization where I can enhance my skills and learning to contribute to the success of the organization.  WORK EXPERIENCE  Technical support engineer  Microsoft  Position: TECHNICAL SUPPORT ENGINEER  Company: Microsoft Corporation - Microsoft India Global Technical Support Center (Microsoft IGTSC), Bangalore  Years of Experience: 2 Years and 4 Months  Responsibilities  ➢ Represent Microsoft and communicate with corporate customers via telephone, written correspondence, or electronic service regarding technically complex escalated problems identified in Microsoft software products, and manage relationships with those customers.  ➢ Manage not only the technically complex problems, but also politically charged situations requiring the highest level of customer skill.  ➢ Receive technically complex, critical or politically hot customer issues, and maintain ownership of issue until resolved completely.  ➢ Solve highly complex problems, involving broad, in-depth product knowledge or in-depth product specialty.  ➢ Use trace analysis, and other sophisticated tools to analyze problems and develop solutions to meet customer needs.  ➢ Lead triage meetings to share knowledge with other engineers and develop customer solutions efficiently.  ➢ Act as technical lead, mentor, and model for a team of engineers; provide direction to others, review solutions and articles, mentoring existing & aspiring Engineers.  ➢ Write technical articles for knowledge base.  ➢ Consult, collaborate and take escalations when necessary.  https://www.indeed.com/r/Soumya-Balan/97ead9542c575355?isid=rex-download&ikw=download-top&co=IN https://www.indeed.com/r/Soumya-Balan/97ead9542c575355?isid=rex-download&ikw=download-top&co=IN   ➢ Maintain working knowledge of pre-release products and take ownership for improvement in key technical areas.  ➢ Manage customer escalations and recognize when to solicit additional help. Participate in technical discussions and engage with product team if required to resolve issues and represent customer segments.  Exchange Server Knowledge  ➢ Exchange Server 2007 ➢ Exchange Server 2010 ➢ Exchange Server 2013 ➢ O365  UG PROJECT TITLE: Memory Bounded Anytime Heuristic Search A* Algorithm  ➢ This Project presents a heuristic-search algorithm called Memory-bounded Anytime Window A*(MAWA*), which is complete, anytime, and memory bounded. MAWA* uses the window- bounded anytime-search methodology of AWA* as the basic framework and combines it with the memory-bounded A* -like approach to handle restricted memory situations. Simple and efficient versions of MAWA* targeted for tree search have also been presented. Experimental results of the sliding-tile puzzle problem and the traveling-salesman problem show the significant advantages of the proposed algorithm over existing methods.  Technical and Co-Curricular activities  ➢ Star Performer in Microsoft IGTSC in 2014. ➢ Paper Presentations on Applications of Robotics in INOX 2K12. ➢ Attended a Three-Day workshop on C and C++ Programming and Aliasing. ➢ Attended a One-Day workshop on Java and Hardware Workshop at VECW ➢ Paper presentation 4G Technologies, Cloud Computing, Heuristic Algorithms and Applications, Open Source Software. ➢ Multimedia presentations on Artificial Intellegence, 6th Sense, and Robotics. ➢ Completed training of OCA (9i, 10g) from Oracle University. ➢ Attended SPARK training program in Infosys Mysore. ➢ Attended System Hardware Training program at HCL, Pondicherry.  EDUCATION  BE in Computer Science and Engineering  Vivekananda Engineering College for Women -  Chennai, Tamil Nadu  2013  BTEC HNC in Aviation in Hospitality and Travel Management  Frankfinn Institute of Airhostess Training -  Calicut, Kerala    2008  State Board  2007  SKILLS  Linux (Less than 1 year), Microsoft Office (Less than 1 year), MS OFFICE (Less than 1 year), problem solving (Less than 1 year)  ADDITIONAL INFORMATION  Skill Set ➢ Excellent communication and interpersonal skills. ➢ Proficient in Computer Applications -Microsoft Office Windows (Windows 2007, XP, 8, 8.1 and Windows 10), Linux, Fedora. ➢ Strong analytical and problem solving skills. ➢ Ability in managing a team of professionals and enjoy being in a team.",
     "entities": [
-      [
-        303,
-        312,
-        "COMPANIES_WORKED_AT"
-      ],
       [
         303,
         312,
@@ -9533,46 +5628,6 @@
         "DEGREE"
       ],
       [
-        303,
-        312,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        2284,
-        2288,
-        "GRADUATION_YEAR"
-      ],
-      [
-        303,
-        312,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        303,
-        312,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        303,
-        312,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        303,
-        312,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        303,
-        312,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        303,
-        312,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         275,
         301,
         "DESIGNATION"
@@ -9613,11 +5668,6 @@
         "SKILLS"
       ],
       [
-        2395,
-        2399,
-        "GRADUATION_YEAR"
-      ],
-      [
         2668,
         2682,
         "DEGREE"
@@ -9648,16 +5698,6 @@
         "COLLEGE_NAME"
       ],
       [
-        449,
-        453,
-        "GRADUATION_YEAR"
-      ],
-      [
-        2395,
-        2399,
-        "GRADUATION_YEAR"
-      ],
-      [
         373,
         399,
         "DESIGNATION"
@@ -9681,11 +5721,6 @@
         28,
         47,
         "DEGREE"
-      ],
-      [
-        0,
-        12,
-        "NAME"
       ],
       [
         0,
@@ -9715,26 +5750,6 @@
       [
         1972,
         1981,
-        "SKILLS"
-      ],
-      [
-        1935,
-        1951,
-        "SKILLS"
-      ],
-      [
-        1865,
-        1868,
-        "SKILLS"
-      ],
-      [
-        1865,
-        1868,
-        "SKILLS"
-      ],
-      [
-        1862,
-        1890,
         "SKILLS"
       ],
       [
@@ -9788,11 +5803,6 @@
         "LOCATION"
       ],
       [
-        15,
-        30,
-        "DESIGNATION"
-      ],
-      [
         0,
         14,
         "NAME"
@@ -9802,21 +5812,6 @@
   {
     "text": "Srabani Das software engineer - Oracle, Business Objects  Bishnupur, MANIPUR, 722122, IN - Email me on Indeed: indeed.com/r/Srabani- Das/152269fb5b986c26  To secure a challenging position where I can effectively contribute my skills as Software Professional which will boost my career and can be effectively achieve company objective.  WORK EXPERIENCE  software engineer  Oracle, Business Objects -  June 2015 to Present  • A highly accomplished professional with 2.8 years of IT experience as a software developer working with technologies like Teradata, Oracle, Business Objects. • Working as software engineer with Apple client in Exilant Technologies Pvt. Ltd. from June 2015 to till date. • Working in multiple domains like Retail and Concierge.  EDUCATION  B-tech in Electronics and Telecommunication  College of engineering -  Bhubaneshwar, Orissa  2015  CBSE  ODM Pubic school -  Bhubaneshwar, Orissa  2011  CBSE  Green-Field school  2009  SKILLS  RETAIL (2 years), RETAIL MARKETING (2 years), TERADATA (2 years), ACCEPTANCE TESTING (Less than 1 year), APS (Less than 1 year)  ADDITIONAL INFORMATION  SKILLS  https://www.indeed.com/r/Srabani-Das/152269fb5b986c26?isid=rex-download&ikw=download-top&co=IN https://www.indeed.com/r/Srabani-Das/152269fb5b986c26?isid=rex-download&ikw=download-top&co=IN   • Databases (Primary): Teradata, Oracle (SQL, PL/SQL) • OS: Unix, Windows, Mac OS • Teradata Tools & Utilities: BTEQ, Muti Load, Fast Load, Tpump, TPT. • Reporting Tools: BO Reporting, Crystal Report, Universe design tool, BOBJ Migration tool • Other Tools: Radar, Espresso, SQL Workbench, SQL Developer, ETL Metadata UI, iCheck, Global deployment tool, Ms office, Power Point, Ms Excel, Workload Automation. • Applications: Central Station, GitLab, SVN. KEY PROJECTS:  Leaderboard Project Leaderboard Client Apple Description - Leader Board is an iPad based application for single Point of entry to GBI Retail mobile applications. It is to provide automated and centralized access to different apps. Its a location to get key actionable metrics around Sales & Services related transactions of Apple retail store. It is widely used by all managers and employees in Apple stores.  - This is a diverse application which has 4 sub applications: Store Pulse, Benchmark, Session and RedZone Mobile. - Real-time as well as historical data are displayed in this application.  Peak Team Size 6 Roles and Responsibility - Working as a database developer in this project.  - Worked in complete revamp of Leader board application and done multiple enhancements to develop logic for multiple sales and service related metrics.  - Created design documents and Logical Data flow Model from source study according to Business requirements.  - Created multiple Replication setup process (Export and Load) using Apple ETL framework tool.  - Worked on Business Objects, SAP Crysral report and universe for report creation and modifcation.  - Coding and Support for all phases of Testing  - Implementation in production for project go live.  - Production support till warranty phase.  - Transition KT to APS team.  Technology Used Teradata, Oracle, BO Universe and Reporting, Crystal Report, Unix and Autosys, ETL Framework. Reporting Tools Used Business Objects, BOBJ Migration tool, Universe design tool, SAP Crystal Report    Apple Retail Expansion Project Apple Retail Expansion Client Apple Description - As part of New Apple Store/Country Expansion, Store/Market/Country level metadata setups are done with real-time and history performance reports are sent to business users periodically.  Peak Team Size 3 Roles and Responsibility - Involved in Designing technical specification docs and gathering functional requirements.  - Carried out DB changes alone with Unit, Integration, Functional, Regression testing and test case preparation of all the modules impacted for it.  - Implemented Reporting side changes for new Store expansion.  Technology Used Teradata, Oracle, BO Reporting, Crystal Report, Unix and Autosys, ETL Framework. Reporting Tools Used Business Objects, SAP Crystal Report  Genius & Forum Dashboard Project Genius & Forum Dashboard Client Apple Description - This Dashboards acts as a reporting solution for Concierge - the service oriented wing of Apple. - Genius and Forum Dashboard has been developed as the reporting layer to report the Genius Bar, Workshops/events, Repair related metrics. - Helps the store leaders to take decisions on the floor to improve customer experience analyzing the trend of the store. - Store leaders can plan for scheduling of employees based on the demand of symptoms/ categories.  Peak Team Size 6 Roles and Responsibility - Understanding the functional requirement - Design Document preparation. - Coding and Units testing. - Preparing test cases and conduct Integration Testing - Support for User Acceptance Testing - Implementation - Support  Technology Used Teradata, Oracle, Unix and Autosys, ETL Framework. Reporting Tools Used Business Objects, BOBJ Migration tool, Universe design tool",
     "entities": [
-      [
-        32,
-        38,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        32,
-        38,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        32,
-        38,
-        "COMPANIES_WORKED_AT"
-      ],
       [
         32,
         38,
@@ -9843,11 +5838,6 @@
         "COLLEGE_NAME"
       ],
       [
-        862,
-        866,
-        "DEGREE"
-      ],
-      [
         405,
         409,
         "GRADUATION_YEAR"
@@ -9863,31 +5853,6 @@
         "DEGREE"
       ],
       [
-        405,
-        409,
-        "GRADUATION_YEAR"
-      ],
-      [
-        12,
-        29,
-        "DESIGNATION"
-      ],
-      [
-        32,
-        38,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        405,
-        409,
-        "GRADUATION_YEAR"
-      ],
-      [
-        32,
-        38,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         12,
         29,
         "DESIGNATION"
@@ -9901,16 +5866,6 @@
         58,
         67,
         "LOCATION"
-      ],
-      [
-        32,
-        38,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        29,
-        "DESIGNATION"
       ],
       [
         0,
@@ -9966,21 +5921,6 @@
         72,
         113,
         "EMAIL_ADDRESS"
-      ],
-      [
-        72,
-        113,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        30,
-        36,
-        "LOCATION"
-      ],
-      [
-        12,
-        28,
-        "DESIGNATION"
       ],
       [
         0,
@@ -10043,31 +5983,6 @@
         "DESIGNATION"
       ],
       [
-        239,
-        264,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        217,
-        237,
-        "DESIGNATION"
-      ],
-      [
-        16,
-        22,
-        "LOCATION"
-      ],
-      [
-        16,
-        22,
-        "LOCATION"
-      ],
-      [
-        58,
-        103,
-        "EMAIL_ADDRESS"
-      ],
-      [
         16,
         22,
         "LOCATION"
@@ -10128,21 +6043,6 @@
         "LOCATION"
       ],
       [
-        63,
-        72,
-        "LOCATION"
-      ],
-      [
-        106,
-        150,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        63,
-        72,
-        "LOCATION"
-      ],
-      [
         52,
         61,
         "COMPANIES_WORKED_AT"
@@ -10183,19 +6083,9 @@
         "SKILLS"
       ],
       [
-        13,
-        16,
-        "SKILLS"
-      ],
-      [
         4865,
         4869,
         "GRADUATION_YEAR"
-      ],
-      [
-        51,
-        55,
-        "LOCATION"
       ],
       [
         51,
@@ -10213,16 +6103,6 @@
         "GRADUATION_YEAR"
       ],
       [
-        51,
-        55,
-        "LOCATION"
-      ],
-      [
-        51,
-        55,
-        "LOCATION"
-      ],
-      [
         4744,
         4789,
         "COLLEGE_NAME"
@@ -10238,74 +6118,14 @@
         "COLLEGE_NAME"
       ],
       [
-        13,
-        16,
-        "SKILLS"
-      ],
-      [
-        51,
-        55,
-        "LOCATION"
-      ],
-      [
-        13,
-        16,
-        "SKILLS"
-      ],
-      [
         19,
         40,
         "DESIGNATION"
-      ],
-      [
-        13,
-        16,
-        "SKILLS"
-      ],
-      [
-        51,
-        55,
-        "LOCATION"
-      ],
-      [
-        13,
-        16,
-        "SKILLS"
-      ],
-      [
-        13,
-        16,
-        "SKILLS"
-      ],
-      [
-        13,
-        16,
-        "SKILLS"
       ],
       [
         91,
         133,
         "EMAIL_ADDRESS"
-      ],
-      [
-        51,
-        55,
-        "LOCATION"
-      ],
-      [
-        13,
-        16,
-        "SKILLS"
-      ],
-      [
-        19,
-        40,
-        "DESIGNATION"
-      ],
-      [
-        13,
-        16,
-        "SKILLS"
       ],
       [
         0,
@@ -10323,21 +6143,6 @@
         "GRADUATION_YEAR"
       ],
       [
-        708,
-        712,
-        "GRADUATION_YEAR"
-      ],
-      [
-        708,
-        712,
-        "GRADUATION_YEAR"
-      ],
-      [
-        708,
-        712,
-        "GRADUATION_YEAR"
-      ],
-      [
         1417,
         3890,
         "SKILLS"
@@ -10346,11 +6151,6 @@
         722,
         1219,
         "SKILLS"
-      ],
-      [
-        708,
-        712,
-        "GRADUATION_YEAR"
       ],
       [
         686,
@@ -10396,11 +6196,6 @@
         57,
         101,
         "EMAIL_ADDRESS"
-      ],
-      [
-        14,
-        23,
-        "LOCATION"
       ],
       [
         0,
@@ -10458,26 +6253,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        15,
-        24,
-        "LOCATION"
-      ],
-      [
-        740,
-        762,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        58,
-        102,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        15,
-        24,
-        "LOCATION"
-      ],
-      [
         0,
         14,
         "NAME"
@@ -10508,26 +6283,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        1640,
-        1646,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1640,
-        1646,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1842,
-        1846,
-        "GRADUATION_YEAR"
-      ],
-      [
-        1640,
-        1646,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1796,
         1820,
         "DESIGNATION"
@@ -10538,16 +6293,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        1640,
-        1646,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        957,
-        972,
-        "DESIGNATION"
-      ],
-      [
         957,
         972,
         "DESIGNATION"
@@ -10561,31 +6306,6 @@
         52,
         59,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        49,
-        "DESIGNATION"
-      ],
-      [
-        100,
-        144,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        61,
-        68,
-        "LOCATION"
-      ],
-      [
-        52,
-        59,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        49,
-        "DESIGNATION"
       ],
       [
         15,
@@ -10638,11 +6358,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        14,
-        22,
-        "LOCATION"
-      ],
-      [
         0,
         13,
         "NAME"
@@ -10688,11 +6403,6 @@
         "DEGREE"
       ],
       [
-        450,
-        454,
-        "GRADUATION_YEAR"
-      ],
-      [
         124,
         141,
         "DESIGNATION"
@@ -10701,11 +6411,6 @@
         143,
         149,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        124,
-        141,
-        "DESIGNATION"
       ],
       [
         61,
@@ -10738,31 +6443,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1040,
         1139,
         "SKILLS"
@@ -10776,11 +6456,6 @@
         952,
         956,
         "DEGREE"
-      ],
-      [
-        878,
-        927,
-        "COLLEGE_NAME"
       ],
       [
         873,
@@ -10808,11 +6483,6 @@
         "DEGREE"
       ],
       [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         102,
         159,
         "EMAIL_ADDRESS"
@@ -10823,19 +6493,9 @@
         "LOCATION"
       ],
       [
-        49,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         27,
         46,
         "DESIGNATION"
-      ],
-      [
-        0,
-        26,
-        "NAME"
       ]
     ]
   },
@@ -10868,44 +6528,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        887,
-        891,
-        "GRADUATION_YEAR"
-      ],
-      [
         12,
         22,
         "LOCATION"
-      ],
-      [
-        12,
-        22,
-        "LOCATION"
-      ],
-      [
-        1051,
-        1066,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        887,
-        891,
-        "GRADUATION_YEAR"
-      ],
-      [
-        12,
-        22,
-        "LOCATION"
-      ],
-      [
-        12,
-        22,
-        "LOCATION"
-      ],
-      [
-        1051,
-        1066,
-        "COMPANIES_WORKED_AT"
       ],
       [
         1031,
@@ -10913,24 +6538,9 @@
         "DESIGNATION"
       ],
       [
-        887,
-        891,
-        "GRADUATION_YEAR"
-      ],
-      [
         57,
         98,
         "EMAIL_ADDRESS"
-      ],
-      [
-        12,
-        22,
-        "LOCATION"
-      ],
-      [
-        12,
-        22,
-        "LOCATION"
       ],
       [
         0,
@@ -10946,21 +6556,6 @@
         7880,
         8486,
         "SKILLS"
-      ],
-      [
-        170,
-        177,
-        "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        170,
-        177,
-        "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        170,
-        177,
-        "YEARS_OF_EXPERIENCE"
       ],
       [
         170,
@@ -11003,36 +6598,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        5659,
-        5663,
-        "GRADUATION_YEAR"
-      ],
-      [
-        42,
-        62,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1174,
-        1187,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        62,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1174,
-        1187,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        62,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         42,
         62,
         "COMPANIES_WORKED_AT"
@@ -11041,26 +6606,6 @@
         26,
         39,
         "DESIGNATION"
-      ],
-      [
-        1174,
-        1187,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        42,
-        62,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        26,
-        39,
-        "DESIGNATION"
-      ],
-      [
-        170,
-        177,
-        "YEARS_OF_EXPERIENCE"
       ],
       [
         102,
@@ -11071,16 +6616,6 @@
         64,
         71,
         "LOCATION"
-      ],
-      [
-        42,
-        62,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        26,
-        39,
-        "DESIGNATION"
       ],
       [
         0,
@@ -11138,54 +6673,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        15,
-        32,
-        "DESIGNATION"
-      ],
-      [
         95,
         139,
         "EMAIL_ADDRESS"
-      ],
-      [
-        35,
-        50,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        32,
-        "DESIGNATION"
-      ],
-      [
-        35,
-        50,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        32,
-        "DESIGNATION"
-      ],
-      [
-        95,
-        139,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        52,
-        60,
-        "LOCATION"
-      ],
-      [
-        35,
-        50,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        32,
-        "DESIGNATION"
       ],
       [
         0,
@@ -11258,11 +6748,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        12,
-        21,
-        "DESIGNATION"
-      ],
-      [
         152,
         161,
         "YEARS_OF_EXPERIENCE"
@@ -11276,16 +6761,6 @@
         41,
         50,
         "LOCATION"
-      ],
-      [
-        24,
-        39,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        21,
-        "DESIGNATION"
       ],
       [
         0,
@@ -11323,91 +6798,6 @@
         "DESIGNATION"
       ],
       [
-        1295,
-        1317,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        4666,
-        4693,
-        "DESIGNATION"
-      ],
-      [
-        1295,
-        1317,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1295,
-        1317,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1295,
-        1317,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        19,
-        "LOCATION"
-      ],
-      [
-        314,
-        325,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        314,
-        325,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        19,
-        "LOCATION"
-      ],
-      [
-        314,
-        325,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        19,
-        "LOCATION"
-      ],
-      [
-        314,
-        325,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        314,
-        325,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        55,
-        99,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        1295,
-        1317,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        314,
-        325,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        314,
-        325,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         15,
         19,
         "LOCATION"
@@ -11421,11 +6811,6 @@
         55,
         99,
         "EMAIL_ADDRESS"
-      ],
-      [
-        15,
-        19,
-        "LOCATION"
       ],
       [
         0,
@@ -11513,29 +6898,9 @@
         "DESIGNATION"
       ],
       [
-        106,
-        145,
-        "EMAIL_ADDRESS"
-      ],
-      [
         66,
         72,
         "LOCATION"
-      ],
-      [
-        35,
-        64,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        10,
-        32,
-        "DESIGNATION"
-      ],
-      [
-        10,
-        32,
-        "DESIGNATION"
       ],
       [
         0,
@@ -11573,21 +6938,6 @@
         "DEGREE"
       ],
       [
-        387,
-        391,
-        "GRADUATION_YEAR"
-      ],
-      [
-        47,
-        55,
-        "LOCATION"
-      ],
-      [
-        387,
-        391,
-        "GRADUATION_YEAR"
-      ],
-      [
         47,
         55,
         "LOCATION"
@@ -11596,11 +6946,6 @@
         85,
         128,
         "EMAIL_ADDRESS"
-      ],
-      [
-        47,
-        55,
-        "LOCATION"
       ],
       [
         14,
@@ -11641,11 +6986,6 @@
         858,
         889,
         "DEGREE"
-      ],
-      [
-        151,
-        155,
-        "GRADUATION_YEAR"
       ],
       [
         51,
@@ -11701,16 +7041,6 @@
         66,
         71,
         "LOCATION"
-      ],
-      [
-        51,
-        64,
-        "DESIGNATION"
-      ],
-      [
-        0,
-        15,
-        "NAME"
       ]
     ]
   },
@@ -11751,16 +7081,6 @@
         522,
         537,
         "DESIGNATION"
-      ],
-      [
-        147,
-        191,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        106,
-        115,
-        "LOCATION"
       ],
       [
         86,
@@ -11868,16 +7188,6 @@
         "DESIGNATION"
       ],
       [
-        40,
-        49,
-        "LOCATION"
-      ],
-      [
-        13,
-        38,
-        "DESIGNATION"
-      ],
-      [
         0,
         12,
         "NAME"
@@ -11916,21 +7226,6 @@
         733,
         756,
         "DESIGNATION"
-      ],
-      [
-        96,
-        133,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        53,
-        62,
-        "LOCATION"
-      ],
-      [
-        53,
-        62,
-        "LOCATION"
       ],
       [
         8,
@@ -11973,16 +7268,6 @@
         "DESIGNATION"
       ],
       [
-        173,
-        182,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        36,
-        "DESIGNATION"
-      ],
-      [
         76,
         116,
         "EMAIL_ADDRESS"
@@ -11991,11 +7276,6 @@
         38,
         46,
         "LOCATION"
-      ],
-      [
-        11,
-        36,
-        "DESIGNATION"
       ],
       [
         0,
@@ -12013,101 +7293,6 @@
         "DESIGNATION"
       ],
       [
-        15,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        34,
-        "DESIGNATION"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         544,
         553,
         "COMPANIES_WORKED_AT"
@@ -12123,34 +7308,9 @@
         "COLLEGE_NAME"
       ],
       [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         4701,
         4737,
         "DEGREE"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
       ],
       [
         3166,
@@ -12168,74 +7328,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        15,
-        34,
-        "DESIGNATION"
-      ],
-      [
         100,
         144,
         "EMAIL_ADDRESS"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        544,
-        553,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        100,
-        144,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        60,
-        64,
-        "LOCATION"
-      ],
-      [
-        15,
-        58,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        34,
-        "DESIGNATION"
       ],
       [
         0,
@@ -12263,26 +7358,6 @@
         "LOCATION"
       ],
       [
-        94,
-        103,
-        "LOCATION"
-      ],
-      [
-        94,
-        103,
-        "LOCATION"
-      ],
-      [
-        94,
-        103,
-        "LOCATION"
-      ],
-      [
-        94,
-        103,
-        "LOCATION"
-      ],
-      [
         79,
         92,
         "COMPANIES_WORKED_AT"
@@ -12296,21 +7371,6 @@
         137,
         180,
         "EMAIL_ADDRESS"
-      ],
-      [
-        94,
-        103,
-        "LOCATION"
-      ],
-      [
-        79,
-        92,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        76,
-        "DESIGNATION"
       ],
       [
         0,
@@ -12336,16 +7396,6 @@
         826,
         831,
         "DEGREE"
-      ],
-      [
-        421,
-        430,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        421,
-        430,
-        "COMPANIES_WORKED_AT"
       ],
       [
         421,
@@ -12386,16 +7436,6 @@
         243,
         248,
         "DEGREE"
-      ],
-      [
-        122,
-        147,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        112,
-        120,
-        "DESIGNATION"
       ],
       [
         122,
@@ -12498,11 +7538,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        243,
-        252,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         225,
         241,
         "DESIGNATION"
@@ -12548,11 +7583,6 @@
         "DEGREE"
       ],
       [
-        8209,
-        8213,
-        "GRADUATION_YEAR"
-      ],
-      [
         8172,
         8183,
         "COLLEGE_NAME"
@@ -12568,11 +7598,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        30,
-        39,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         16,
         27,
         "DESIGNATION"
@@ -12586,51 +7611,6 @@
         84,
         129,
         "EMAIL_ADDRESS"
-      ],
-      [
-        16,
-        27,
-        "DESIGNATION"
-      ],
-      [
-        30,
-        39,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        27,
-        "DESIGNATION"
-      ],
-      [
-        84,
-        129,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        0,
-        4,
-        "LOCATION"
-      ],
-      [
-        30,
-        39,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        27,
-        "DESIGNATION"
-      ],
-      [
-        0,
-        15,
-        "NAME"
-      ],
-      [
-        0,
-        4,
-        "LOCATION"
       ]
     ]
   },
@@ -12658,11 +7638,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        374,
-        391,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         14,
         52,
         "DESIGNATION"
@@ -12671,11 +7646,6 @@
         76,
         119,
         "EMAIL_ADDRESS"
-      ],
-      [
-        14,
-        52,
-        "DESIGNATION"
       ],
       [
         0,
@@ -12723,11 +7693,6 @@
         "LOCATION"
       ],
       [
-        21,
-        49,
-        "DESIGNATION"
-      ],
-      [
         0,
         20,
         "NAME"
@@ -12751,11 +7716,6 @@
         94,
         103,
         "DESIGNATION"
-      ],
-      [
-        34,
-        75,
-        "EMAIL_ADDRESS"
       ],
       [
         0,
@@ -12798,11 +7758,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        85,
-        95,
-        "LOCATION"
-      ],
-      [
         637,
         640,
         "COMPANIES_WORKED_AT"
@@ -12811,16 +7766,6 @@
         615,
         635,
         "DESIGNATION"
-      ],
-      [
-        128,
-        168,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        85,
-        95,
-        "LOCATION"
       ],
       [
         11,
@@ -12918,11 +7863,6 @@
         "LOCATION"
       ],
       [
-        13,
-        46,
-        "DESIGNATION"
-      ],
-      [
         0,
         12,
         "NAME"
@@ -12963,24 +7903,9 @@
         "DESIGNATION"
       ],
       [
-        134,
-        155,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        117,
-        132,
-        "DESIGNATION"
-      ],
-      [
         56,
         98,
         "EMAIL_ADDRESS"
-      ],
-      [
-        13,
-        20,
-        "LOCATION"
       ],
       [
         0,
@@ -13008,11 +7933,6 @@
         "COLLEGE_NAME"
       ],
       [
-        63,
-        69,
-        "LOCATION"
-      ],
-      [
         720,
         727,
         "DEGREE"
@@ -13021,11 +7941,6 @@
         549,
         570,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        63,
-        69,
-        "LOCATION"
       ],
       [
         16,
@@ -13038,19 +7953,9 @@
         "EMAIL_ADDRESS"
       ],
       [
-        63,
-        69,
-        "LOCATION"
-      ],
-      [
         46,
         61,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        43,
-        "DESIGNATION"
       ],
       [
         0,
@@ -13081,11 +7986,6 @@
         389,
         407,
         "DEGREE"
-      ],
-      [
-        137,
-        146,
-        "COMPANIES_WORKED_AT"
       ],
       [
         117,
@@ -13148,11 +8048,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        339,
-        348,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1187,
         1408,
         "SKILLS"
@@ -13166,11 +8061,6 @@
         1111,
         1139,
         "DEGREE"
-      ],
-      [
-        339,
-        348,
-        "COMPANIES_WORKED_AT"
       ],
       [
         279,
@@ -13218,11 +8108,6 @@
         "DEGREE"
       ],
       [
-        7833,
-        7851,
-        "COLLEGE_NAME"
-      ],
-      [
         7795,
         7831,
         "DEGREE"
@@ -13238,11 +8123,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        17,
-        60,
-        "DESIGNATION"
-      ],
-      [
         123,
         170,
         "EMAIL_ADDRESS"
@@ -13251,16 +8131,6 @@
         80,
         89,
         "LOCATION"
-      ],
-      [
-        63,
-        78,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        17,
-        60,
-        "DESIGNATION"
       ],
       [
         0,
@@ -13296,11 +8166,6 @@
         267,
         293,
         "DEGREE"
-      ],
-      [
-        183,
-        192,
-        "COMPANIES_WORKED_AT"
       ],
       [
         155,
@@ -13398,29 +8263,9 @@
         "COLLEGE_NAME"
       ],
       [
-        19,
-        27,
-        "LOCATION"
-      ],
-      [
-        245,
-        254,
-        "SKILLS"
-      ],
-      [
-        19,
-        27,
-        "LOCATION"
-      ],
-      [
         66,
         115,
         "EMAIL_ADDRESS"
-      ],
-      [
-        19,
-        27,
-        "LOCATION"
       ],
       [
         0,
@@ -13448,24 +8293,9 @@
         "DEGREE"
       ],
       [
-        15,
-        20,
-        "LOCATION"
-      ],
-      [
-        190,
-        207,
-        "COLLEGE_NAME"
-      ],
-      [
         177,
         188,
         "DEGREE"
-      ],
-      [
-        15,
-        20,
-        "LOCATION"
       ],
       [
         139,
@@ -13481,11 +8311,6 @@
         55,
         99,
         "EMAIL_ADDRESS"
-      ],
-      [
-        15,
-        20,
-        "LOCATION"
       ],
       [
         0,
@@ -13513,79 +8338,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         1753,
         1770,
         "DESIGNATION"
-      ],
-      [
-        729,
-        738,
-        "COMPANIES_WORKED_AT"
       ],
       [
         98,
@@ -13643,11 +8398,6 @@
         "DEGREE"
       ],
       [
-        2288,
-        2292,
-        "GRADUATION_YEAR"
-      ],
-      [
         79,
         122,
         "EMAIL_ADDRESS"
@@ -13688,29 +8438,9 @@
         "DEGREE"
       ],
       [
-        33,
-        38,
-        "LOCATION"
-      ],
-      [
-        33,
-        38,
-        "LOCATION"
-      ],
-      [
         76,
         122,
         "EMAIL_ADDRESS"
-      ],
-      [
-        33,
-        38,
-        "LOCATION"
-      ],
-      [
-        0,
-        15,
-        "NAME"
       ],
       [
         0,
@@ -13748,11 +8478,6 @@
         "SKILLS"
       ],
       [
-        308,
-        312,
-        "GRADUATION_YEAR"
-      ],
-      [
         1077,
         1099,
         "COLLEGE_NAME"
@@ -13763,11 +8488,6 @@
         "DEGREE"
       ],
       [
-        267,
-        276,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         256,
         265,
         "DESIGNATION"
@@ -13776,31 +8496,11 @@
         13,
         18,
         "LOCATION"
-      ],
-      [
-        267,
-        276,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        256,
-        265,
-        "DESIGNATION"
       ],
       [
         53,
         95,
         "EMAIL_ADDRESS"
-      ],
-      [
-        13,
-        18,
-        "LOCATION"
-      ],
-      [
-        0,
-        12,
-        "NAME"
       ]
     ]
   },
@@ -13852,11 +8552,6 @@
   {
     "text": "Paul Rajiv Secunderabad, Andhra Pradesh - Email me on Indeed: indeed.com/r/Paul- Rajiv/2bd46ce0f01fad54  Willing to relocate: Anywhere  WORK EXPERIENCE  Delivery Specialist  Microsoft -  hyderbad, Telangana -  April 2017 to Present  Regal Raptor Motorcycles India: A growing automobile company, being the manufacturers and distributors of premium choppers cruiser motorcycles across PAN India and SAARC countries.  Chief Operations Officer [COO]: Directed all facets of the manufacturing, purchasing and sales initiatives for the company. Provided direction for sales strategies and co-ordinated assembling functions domestically.  ♦ Effective planning and implementation of defined SOP's ♦ Spearheaded the development of the brand \"Regal Raptor\" becoming one of the most recognisable names in the Industry. ♦ Proven success in sales and marketing through expertise business development modules and strategic planning capabilities. ♦ Achieved a significant result in unit sales percentage per annum during the year 2015-2016 with a 30% extensive increase rate. ♦ Enabled a unique marketing strategy by manufacturing India's First fully equipped Police Bike which indeed helped in penetrating the brand across India. ♦ Demonstrated and delegated the effective usage of the newly launched police bike to all the top government officials and leaders across the states in India. ♦ Developed cutting edge technology to be instilled in the product lines which enables problem solving methodologies at break next speed and enhances competitiveness in the modern day business. ♦ Motivated and led a productive sales and customer service oriented teams of support executives with many receiving continuous accolade for superior performance. ♦ Developed a strong relationship with vendors, dealers and distributors by constantly working towards expanding business and building markets across PAN India. ♦ Effective negotiation of costs to meet the gross margin goals. ♦ Put in significant efforts in planning to set up a Manufacturing plant within the state of Telangana to carry out complete production activities and exports business between the SAARC countries ♦ Constantly worked upon building a strong network among the top government officials to facilitate the sanction of the Manufacturing plant set up in india.  https://www.indeed.com/r/Paul-Rajiv/2bd46ce0f01fad54?isid=rex-download&ikw=download-top&co=IN https://www.indeed.com/r/Paul-Rajiv/2bd46ce0f01fad54?isid=rex-download&ikw=download-top&co=IN   EDUCATION  Bachelor of Commerce in Commerce business management  College (Osmania University) -  Hyderabad, Andhra Pradesh  2011 to 2014  Board of Intermediate Education  2009 to 2011  SSC  St. Patrick's High School  2009  ADDITIONAL INFORMATION  Specialties: Process Optimization, Strategic Management, Profit Centre Management, Customer care strategies, Lean Management, Sales Overheads and Effective Management of Marketing strategies and Manufacturing plant enablement's.  Job Role &amp; Corporate Dossier: [DELL] A Corporate executive with substantial potential in business management, corporate strategy and business expansion.  ♦ Worked for Dell International Services, and Carrying an experience of 28 months + ♦ Worked as a Customer Services Executive for UK/Ireland Regions. ♦ Front Line working directly along with Customers to Resolve the Query in their best interest. Handle Few Major &amp; Minor Escalation in place for Swift Closure with Satisfaction. ♦ Working with Mutual Business Vendors to get issues going on motion for immediate impact. ♦ I have been excellent in the existing task, Job description with exceptional numbers winning the Monthly Stacks for 3 times with Consecutive improvement every time. ♦ I have handled some critical issues with very smooth processing &amp; assurance to customer satisfaction having earned many recognitions with in Dell &amp; outside Dell Clients. ♦ I have much more recognitions, feedback &amp; success stories to share. ♦ Hence, I look forward for progression, advancement in my career to grow using the above mentioned skills &amp; make a difference in contribution towards expansion in any business fields.  ACADEMIA  Additional Qualifications  ♦ Good knowledge in Accounting Standards ♦ Basic knowledge on Java ♦ Web Technologies: HTML, DHTML, XML, Visual Basic, COBOL, DBMS ♦ Operating system: Windows-xp, Windows -Vista &amp; Windows-7    ♦ Packages: MS-Office &amp; Basic knowledge in tally (Accounting Systems)  External Project Experience:  ♦ Worked on Manufacturing India's First Fully Equipped Police Bike or FAB Motors India Pvt. Ltd, 2017 ♦ Worked on an Industrial Project for Masqati India Pvt. Ltd, 2013. ♦ Worked on a Stream based Project on Women Harassment and Empowerment in India, 2014.  Strengths and Abilities  ♦ Self- Development, Communication, Interpersonal and Problem Solving Skills. ♦ Willing to travel extensively according to the job requirements. ♦ Team Work, Flexible, Punctual and Interest to Learn New Things. ♦ A self-motivated and diligent team player possessing highly evolved and demonstrable communication.",
     "entities": [
-      [
-        2634,
-        2638,
-        "GRADUATION_YEAR"
-      ],
       [
         2634,
         2638,
@@ -13928,11 +8623,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        122,
-        140,
-        "DESIGNATION"
-      ],
-      [
         60,
         103,
         "EMAIL_ADDRESS"
@@ -13988,29 +8678,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        427,
-        436,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         400,
         425,
         "DESIGNATION"
-      ],
-      [
-        67,
-        71,
-        "LOCATION"
-      ],
-      [
-        107,
-        149,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        67,
-        71,
-        "LOCATION"
       ],
       [
         0,
@@ -14048,11 +8718,6 @@
         "LOCATION"
       ],
       [
-        15,
-        42,
-        "DESIGNATION"
-      ],
-      [
         0,
         14,
         "NAME"
@@ -14062,11 +8727,6 @@
   {
     "text": "Sweety Garg Bengaluru, Karnataka - Email me on Indeed: indeed.com/r/Sweety-Garg/9f2d2afa546d730d  WORK EXPERIENCE  Technical consultant  Microsoft -  Bangalore Urban, Karnataka -  July 2013 to Present  EDUCATION  B.Tech in Engineering  SRM University -  Chennai, Tamil Nadu  2013  Engineering  Central Academy School  2006  ADDITIONAL INFORMATION  TECHNICAL SKILLS: ❖ Expertise in Microsoft Office Power Point, Microsoft Office Word.  ❖ Basic knowledge about C and C++ Programming.  ❖ Management skills. ❖ Responsible.  https://www.indeed.com/r/Sweety-Garg/9f2d2afa546d730d?isid=rex-download&ikw=download-top&co=IN",
     "entities": [
-      [
-        137,
-        146,
-        "COMPANIES_WORKED_AT"
-      ],
       [
         137,
         146,
@@ -14091,16 +8751,6 @@
         213,
         234,
         "DEGREE"
-      ],
-      [
-        185,
-        189,
-        "GRADUATION_YEAR"
-      ],
-      [
-        137,
-        146,
-        "COMPANIES_WORKED_AT"
       ],
       [
         115,
@@ -14158,11 +8808,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        35,
-        44,
-        "LOCATION"
-      ],
-      [
         17,
         33,
         "DESIGNATION"
@@ -14208,39 +8853,14 @@
         "DEGREE"
       ],
       [
-        390,
-        399,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         380,
         388,
         "DESIGNATION"
       ],
       [
-        3,
-        8,
-        "LOCATION"
-      ],
-      [
         52,
         89,
         "EMAIL_ADDRESS"
-      ],
-      [
-        3,
-        8,
-        "LOCATION"
-      ],
-      [
-        3,
-        8,
-        "LOCATION"
-      ],
-      [
-        0,
-        8,
-        "NAME"
       ]
     ]
   },
@@ -14318,21 +8938,6 @@
         "DESIGNATION"
       ],
       [
-        15,
-        20,
-        "LOCATION"
-      ],
-      [
-        50,
-        94,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        15,
-        20,
-        "LOCATION"
-      ],
-      [
         0,
         14,
         "NAME"
@@ -14346,16 +8951,6 @@
         2566,
         2601,
         "SKILLS"
-      ],
-      [
-        1438,
-        1447,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1438,
-        1447,
-        "COMPANIES_WORKED_AT"
       ],
       [
         1438,
@@ -14381,31 +8976,6 @@
         1514,
         1527,
         "DEGREE"
-      ],
-      [
-        1438,
-        1463,
-        "DESIGNATION"
-      ],
-      [
-        1438,
-        1447,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1438,
-        1447,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        1438,
-        1463,
-        "DESIGNATION"
-      ],
-      [
-        1438,
-        1447,
-        "COMPANIES_WORKED_AT"
       ],
       [
         80,
@@ -14438,11 +9008,6 @@
         "SKILLS"
       ],
       [
-        389,
-        398,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         2420,
         2497,
         "SKILLS"
@@ -14453,29 +9018,9 @@
         "DEGREE"
       ],
       [
-        389,
-        398,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         2306,
         2324,
         "DESIGNATION"
-      ],
-      [
-        389,
-        398,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        97,
-        106,
-        "LOCATION"
-      ],
-      [
-        389,
-        398,
-        "COMPANIES_WORKED_AT"
       ],
       [
         97,
@@ -14493,19 +9038,9 @@
         "DESIGNATION"
       ],
       [
-        97,
-        106,
-        "LOCATION"
-      ],
-      [
         140,
         183,
         "EMAIL_ADDRESS"
-      ],
-      [
-        97,
-        106,
-        "LOCATION"
       ],
       [
         35,
@@ -14558,16 +9093,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        42,
-        49,
-        "LOCATION"
-      ],
-      [
-        28,
-        40,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         7,
         25,
         "DESIGNATION"
@@ -14591,16 +9116,6 @@
         8165,
         8168,
         "DEGREE"
-      ],
-      [
-        8165,
-        8168,
-        "DEGREE"
-      ],
-      [
-        138,
-        180,
-        "EMAIL_ADDRESS"
       ],
       [
         138,
@@ -14678,21 +9193,6 @@
         "COLLEGE_NAME"
       ],
       [
-        14,
-        35,
-        "DESIGNATION"
-      ],
-      [
-        39,
-        61,
-        "COLLEGE_NAME"
-      ],
-      [
-        14,
-        35,
-        "DESIGNATION"
-      ],
-      [
         0,
         13,
         "NAME"
@@ -14721,11 +9221,6 @@
         5328,
         5383,
         "DEGREE"
-      ],
-      [
-        4231,
-        4235,
-        "GRADUATION_YEAR"
       ],
       [
         710,
@@ -14778,21 +9273,6 @@
         "DEGREE"
       ],
       [
-        645,
-        649,
-        "GRADUATION_YEAR"
-      ],
-      [
-        645,
-        649,
-        "GRADUATION_YEAR"
-      ],
-      [
-        645,
-        649,
-        "GRADUATION_YEAR"
-      ],
-      [
         469,
         479,
         "COMPANIES_WORKED_AT"
@@ -14813,11 +9293,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        14,
-        18,
-        "LOCATION"
-      ],
-      [
         0,
         13,
         "NAME"
@@ -14827,21 +9302,6 @@
   {
     "text": "Ramakrishna Rao DevOps Consultant - Tech Mahindra Ltd  Bengaluru, Karnataka - Email me on Indeed: indeed.com/r/Ramakrishna- Rao/0b57f5f9d35b9e5c  An accomplished IT Professional with 15.2 years of Competent technical expertise in solution design, architecture, system analysis, components design, development and testing of client server, Intranet/ Internet, N-tier systems in Microsoft, Java and middleware projects at Development, Support, E2E and Transition, Transformation, migration Projects at Telecom (BSS and OSS), Networking, Finance, Content Management, Healthcare, Banking domains. Extensive experience in Object-Oriented design and development, agile, DevOps, Cloud architecture, middleware, enterprise application integrations. a) Offshore Professional Summary • Expertise in process, tools maturity assessment and provides the implementation / transformation roadmaps.  • Extensive experience in the design and implementation of Continuous Integration, Continuous Delivery, Continuous Testing, Continuous Deployment Pipelines and DevOps processes, best practices for Agile projects.  • Involved in Agile implementation using JIRA, Rally, HPE ALM/Octane across various customer as per SAFe/Scrum methodologies.  • Implementation experience in Continuous Integration/Delivery (CI/CD) pipeline using CA Clarity, CA Rally, JIRA, HPE ALM/Octane Jenkins, Maven, Git, Bitbukcet, Github, XebiaLabs XL Release, CA Release Automation/Automic for Code Build, repository and deployment and Automation.  • Proven expertise on cloud based solutions using PaaS platforms - Openshift with kubernetes, MS Azure (ARM templates), AWS services (EC2, ELB, IAM, S3, EFS, and EBS, CI-CD services - Code Commit, Build, Code Deploy, OpsWorks)  • Good understating and experience in Docker, Ansible, Chef, Puppet configuration tools  • Good experience in Java, Microsoft, CRM, Java Script, shell, PowerShell, Groovy, Python script  • Involved in development, support activities in projects using tools such as Java/ J2EE, MS Technologies (VB, ASP, VStudio.Net, VB.Net, ASP.Net, C#, SqlServer, Team Foundation Server (TFS), Sharepoint), Oracle, SQL Server, automated configuration and build, integration SCM tools (Git, GitHub, SVN, Bitbucket, Crucible, Maven, SonarQube, NANT, FxCop, NUNIT, CCNet, )  • Good knowledge and integration experiences in testing tools on HPE ALM/QC/Octane, ETL Validator, CA SV, CA TDM and Selenium with CI-CD pipeline.  • Good understanding and experienced in ITSM tools - BMC- Remedy, Servicenow integrations  • Good experience in CI-CD implementation with IBM stack, HP stack, Atlassian stack using IBM CLM, RTC, uRelease and uDeploy, and Atlassian Products (JIRA, JIRA Agile, Crowd, Bitbucket/Stash, Crucible, Confluence) in DevOps solutions implementation.  https://www.indeed.com/r/Ramakrishna-Rao/0b57f5f9d35b9e5c?isid=rex-download&ikw=download-top&co=IN https://www.indeed.com/r/Ramakrishna-Rao/0b57f5f9d35b9e5c?isid=rex-download&ikw=download-top&co=IN   • Have proven leadership and strong interpersonal and communication skills in dealing with people with diverse backgrounds.  b) Onsite Professional Summary • Good experience in DevOps E2E solution design in planning, source code management, build and deployment automations using JIRA, Jenkins, maven, git/Bitbucket, XLRelease and XLDeploy, Ansible for VHA, Scotiabank, Volkswagen, NetApp, Optus, Cenveo accounts. • Developed POCs and successfully onboarded 100+ projects into CD platform as part of the DevOps transformation. • Involved in Transitions/Takeover of varies complex applications for BT, ATT, AIRBUS clients and made the applications as BAU. • Good at client communication, customer management and giving presentations to clients. • Good at managing the deliveries at onshore and liaising with offshore team. • Involved in Application Technical Support, Requirement gathering and giving solution designs to clients. • Involved in ASG (Application Support Group) activities at onshore. • Good experience in conducting tools, DevOps process trainings as part of DevOps enablement programs.  WORK EXPERIENCE  DevOps Consultant -  Tech Mahindra Ltd -  March 2018 to Present  15 Years ] Band-Sub band/ Designation U4 / DevOps Consultant -  Tech Mahindra Ltd -  April 2005 to Present  Experience  Sr. Software Engineer Consultant (Client of Infosys Technologies)  Data Comp Services -  August 2004 to April 2005  Duration AUGUST/2004--APRIL/2005  Programmer Analyst  Infoland Technologies -  February 2003 to August 2004    EDUCATION  Master of Science in Information Technology and Management  Periyar University  June 2001  P.G.D.C.A in Computer Applications  Nagarjuna University  June 1998  B.Sc. in M.P.C  Andhra University  June 1997  SKILLS  .Net (Less than 1 year), .Net 4.5 (Less than 1 year), Amazon Elastic Block Storage (Less than 1 year), Amazon Elastic Compute Cloud (Less than 1 year), ASP (Less than 1 year)  ADDITIONAL INFORMATION  III. Skills  Primary Skill category Java/J2EE, .Net 4.5, MS.Net Tech.[ASP.Net, C#, VB.Net, Web services, WCF, EF, SQLServer, VS2012], Oracle 11g, DevOps process &amp;implementation, Agile planning, JIRA, Bitbucket, Crucible, Confluence, Crowd and Open Source Tools (Jenkins, Git, GitHub, SVN, Maven, SonarQube), MS TFS2013 with InRelease, XLRelease, XLDeploy, AWS services - ( EC2, ELB, IAM, S3, EFS, and EBS, CI-CD services - Code Commit, Build, Code Deploy, OpsWorks), Ansible playbooks, Servicenow  Secondary Skill category VB, ASP, Config Tools (Subversion, NANT, FxCop, NUNIT, CCNet), Design Tools (BorelandToGether2007, Visio2010), Project Management (Microsoft Office Project 2010)  Domain Skill Telecom (CRM, BSS, OSS), Content Management and Healthcare, Finance and Banking  IV. Trainings/Certifications  ➢ Introduction to Agile Methodology: conducted by Tech Mahindra Ltd.: Nov 2006 ➢ PMP Training: conducted by Tech Mahindra Ltd.: Aug 2011. ➢ ITIL Training: conducted by Tech Mahindra Ltd.: Jun 2013. ➢ LEAN SIX SIGMA YELLOW BELT training: conducted by Tech Mahindra Ltd.: April 2014. ➢ Scrum Maser Certified (SMC) Jul 2015 from ScrumStudy.",
     "entities": [
-      [
-        36,
-        53,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        36,
-        53,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        36,
-        53,
-        "COMPANIES_WORKED_AT"
-      ],
       [
         36,
         53,
@@ -14898,21 +9358,6 @@
         "DEGREE"
       ],
       [
-        36,
-        53,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        33,
-        "DESIGNATION"
-      ],
-      [
-        36,
-        53,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         16,
         33,
         "DESIGNATION"
@@ -14926,16 +9371,6 @@
         55,
         64,
         "LOCATION"
-      ],
-      [
-        36,
-        53,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        33,
-        "DESIGNATION"
       ],
       [
         0,
@@ -14968,11 +9403,6 @@
         "DESIGNATION"
       ],
       [
-        145,
-        189,
-        "EMAIL_ADDRESS"
-      ],
-      [
         105,
         109,
         "LOCATION"
@@ -14986,11 +9416,6 @@
         56,
         62,
         "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        17,
-        35,
-        "DESIGNATION"
       ],
       [
         0,
@@ -15011,11 +9436,6 @@
         4449,
         4453,
         "DESIGNATION"
-      ],
-      [
-        4402,
-        4414,
-        "COLLEGE_NAME"
       ],
       [
         4402,
@@ -15046,21 +9466,6 @@
         109,
         154,
         "EMAIL_ADDRESS"
-      ],
-      [
-        69,
-        77,
-        "LOCATION"
-      ],
-      [
-        54,
-        67,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        51,
-        "DESIGNATION"
       ],
       [
         0,
@@ -15098,16 +9503,6 @@
         "DESIGNATION"
       ],
       [
-        276,
-        319,
-        "DESIGNATION"
-      ],
-      [
-        258,
-        265,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         258,
         265,
         "COMPANIES_WORKED_AT"
@@ -15116,11 +9511,6 @@
         235,
         243,
         "YEARS_OF_EXPERIENCE"
-      ],
-      [
-        55,
-        98,
-        "EMAIL_ADDRESS"
       ],
       [
         14,
@@ -15158,11 +9548,6 @@
         "DEGREE"
       ],
       [
-        3269,
-        3273,
-        "GRADUATION_YEAR"
-      ],
-      [
         73,
         82,
         "LOCATION"
@@ -15171,16 +9556,6 @@
         116,
         158,
         "EMAIL_ADDRESS"
-      ],
-      [
-        116,
-        158,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        73,
-        82,
-        "LOCATION"
       ],
       [
         37,
@@ -15228,11 +9603,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        10,
-        31,
-        "DESIGNATION"
-      ],
-      [
         0,
         9,
         "NAME"
@@ -15258,16 +9628,6 @@
         "LOCATION"
       ],
       [
-        114,
-        127,
-        "LOCATION"
-      ],
-      [
-        78,
-        112,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         78,
         112,
         "COMPANIES_WORKED_AT"
@@ -15281,21 +9641,6 @@
         166,
         211,
         "EMAIL_ADDRESS"
-      ],
-      [
-        114,
-        127,
-        "LOCATION"
-      ],
-      [
-        78,
-        112,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        39,
-        "DESIGNATION"
       ],
       [
         0,
@@ -15328,19 +9673,9 @@
         "LOCATION"
       ],
       [
-        79,
-        85,
-        "LOCATION"
-      ],
-      [
         36,
         77,
         "COLLEGE_NAME"
-      ],
-      [
-        17,
-        32,
-        "DESIGNATION"
       ],
       [
         17,
@@ -15351,21 +9686,6 @@
         134,
         180,
         "EMAIL_ADDRESS"
-      ],
-      [
-        79,
-        85,
-        "LOCATION"
-      ],
-      [
-        36,
-        77,
-        "COLLEGE_NAME"
-      ],
-      [
-        17,
-        32,
-        "DESIGNATION"
       ],
       [
         0,
@@ -15408,16 +9728,6 @@
         "LOCATION"
       ],
       [
-        85,
-        89,
-        "LOCATION"
-      ],
-      [
-        85,
-        89,
-        "LOCATION"
-      ],
-      [
         47,
         58,
         "COMPANIES_WORKED_AT"
@@ -15425,11 +9735,6 @@
       [
         13,
         44,
-        "DESIGNATION"
-      ],
-      [
-        13,
-        43,
         "DESIGNATION"
       ],
       [
@@ -15441,21 +9746,6 @@
         125,
         167,
         "EMAIL_ADDRESS"
-      ],
-      [
-        85,
-        89,
-        "LOCATION"
-      ],
-      [
-        47,
-        58,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        43,
-        "DESIGNATION"
       ],
       [
         0,
@@ -15478,39 +9768,14 @@
         "EMAIL_ADDRESS"
       ],
       [
-        57,
-        64,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         18,
         56,
         "DESIGNATION"
-      ],
-      [
-        57,
-        64,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        128,
-        175,
-        "EMAIL_ADDRESS"
       ],
       [
         93,
         98,
         "LOCATION"
-      ],
-      [
-        57,
-        64,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        18,
-        56,
-        "DESIGNATION"
       ],
       [
         0,
@@ -15593,11 +9858,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        70,
-        79,
-        "LOCATION"
-      ],
-      [
         0,
         15,
         "NAME"
@@ -15618,28 +9878,8 @@
         "DESIGNATION"
       ],
       [
-        14,
-        33,
-        "DESIGNATION"
-      ],
-      [
         39,
         51,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        33,
-        "DESIGNATION"
-      ],
-      [
-        39,
-        51,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        33,
         "COMPANIES_WORKED_AT"
       ],
       [
@@ -15688,19 +9928,9 @@
         "EMAIL_ADDRESS"
       ],
       [
-        70,
-        79,
-        "LOCATION"
-      ],
-      [
         27,
         57,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        25,
-        "DESIGNATION"
       ],
       [
         0,
@@ -15743,11 +9973,6 @@
         "DEGREE"
       ],
       [
-        3429,
-        3470,
-        "COLLEGE_NAME"
-      ],
-      [
         3381,
         3427,
         "DEGREE"
@@ -15763,11 +9988,6 @@
         "DESIGNATION"
       ],
       [
-        192,
-        222,
-        "COLLEGE_NAME"
-      ],
-      [
         100,
         146,
         "EMAIL_ADDRESS"
@@ -15776,16 +9996,6 @@
         57,
         66,
         "LOCATION"
-      ],
-      [
-        40,
-        55,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        36,
-        "DESIGNATION"
       ],
       [
         0,
@@ -15823,11 +10033,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        52,
-        100,
-        "EMAIL_ADDRESS"
-      ],
-      [
         19,
         29,
         "LOCATION"
@@ -15858,11 +10063,6 @@
         "DEGREE"
       ],
       [
-        281,
-        285,
-        "GRADUATION_YEAR"
-      ],
-      [
         149,
         156,
         "LOCATION"
@@ -15871,11 +10071,6 @@
         26,
         37,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        149,
-        156,
-        "LOCATION"
       ],
       [
         10,
@@ -15886,16 +10081,6 @@
         61,
         100,
         "EMAIL_ADDRESS"
-      ],
-      [
-        26,
-        37,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        10,
-        23,
-        "DESIGNATION"
       ],
       [
         0,
@@ -15931,11 +10116,6 @@
         176,
         206,
         "DESIGNATION"
-      ],
-      [
-        52,
-        94,
-        "EMAIL_ADDRESS"
       ],
       [
         13,
@@ -15978,19 +10158,9 @@
         "DESIGNATION"
       ],
       [
-        15,
-        48,
-        "DESIGNATION"
-      ],
-      [
         49,
         100,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        48,
-        "DESIGNATION"
       ],
       [
         0,
@@ -16026,11 +10196,6 @@
         6658,
         6712,
         "DEGREE"
-      ],
-      [
-        717,
-        748,
-        "COLLEGE_NAME"
       ]
     ]
   },
@@ -16068,19 +10233,9 @@
         "EMAIL_ADDRESS"
       ],
       [
-        54,
-        63,
-        "LOCATION"
-      ],
-      [
         42,
         52,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        39,
-        "DESIGNATION"
       ],
       [
         0,
@@ -16101,26 +10256,6 @@
         3130,
         3866,
         "SKILLS"
-      ],
-      [
-        55,
-        99,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        15,
-        19,
-        "LOCATION"
-      ],
-      [
-        15,
-        19,
-        "LOCATION"
-      ],
-      [
-        15,
-        19,
-        "LOCATION"
       ],
       [
         55,
@@ -16208,36 +10343,6 @@
         "DEGREE"
       ],
       [
-        853,
-        857,
-        "GRADUATION_YEAR"
-      ],
-      [
-        16,
-        28,
-        "DESIGNATION"
-      ],
-      [
-        1538,
-        1541,
-        "DEGREE"
-      ],
-      [
-        853,
-        857,
-        "GRADUATION_YEAR"
-      ],
-      [
-        853,
-        857,
-        "GRADUATION_YEAR"
-      ],
-      [
-        853,
-        857,
-        "GRADUATION_YEAR"
-      ],
-      [
         16,
         28,
         "DESIGNATION"
@@ -16261,11 +10366,6 @@
         30,
         39,
         "LOCATION"
-      ],
-      [
-        16,
-        28,
-        "DESIGNATION"
       ],
       [
         0,
@@ -16303,21 +10403,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        17,
-        58,
-        "DESIGNATION"
-      ],
-      [
-        43,
-        50,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        17,
-        58,
-        "DESIGNATION"
-      ],
-      [
         113,
         160,
         "EMAIL_ADDRESS"
@@ -16326,21 +10411,6 @@
         70,
         79,
         "LOCATION"
-      ],
-      [
-        43,
-        50,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        43,
-        50,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        17,
-        58,
-        "DESIGNATION"
       ],
       [
         0,
@@ -16378,11 +10448,6 @@
         "EMAIL_ADDRESS"
       ],
       [
-        18,
-        31,
-        "LOCATION"
-      ],
-      [
         0,
         17,
         "NAME"
@@ -16418,24 +10483,9 @@
         "DESIGNATION"
       ],
       [
-        29,
-        54,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         83,
         123,
         "EMAIL_ADDRESS"
-      ],
-      [
-        29,
-        54,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        26,
-        "DESIGNATION"
       ],
       [
         624,
@@ -16443,29 +10493,9 @@
         "SKILLS"
       ],
       [
-        11,
-        26,
-        "DESIGNATION"
-      ],
-      [
-        83,
-        123,
-        "EMAIL_ADDRESS"
-      ],
-      [
         56,
         60,
         "LOCATION"
-      ],
-      [
-        29,
-        54,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        11,
-        26,
-        "DESIGNATION"
       ],
       [
         0,
@@ -16477,11 +10507,6 @@
   {
     "text": "Palani S Senior Technology Support Executive at Infosys - Development  Porur, TAMIL NADU, IN - Email me on Indeed: indeed.com/r/Palani-S/d3b2e79f56262868  To seek a position in your organization where I can apply my knowledge &amp; creativity, acquire new skills &amp; contribute effectively to the benefit of the organization and also my professional growth.  WORK EXPERIENCE  Senior Technology Support Executive at Infosys  Development -  Chennai, Tamil Nadu -  May 2015 to Present  WORK EXPERINCE • Currently Working as Senior Technology Support Executive at Infosys, Chennai from May 2015 to till date.  Software Engineer  Ampark Solutions Ltd -  October 2012 to July 2014  Job Responsibilities  • Developing Controllers classes in java using Spring 3.2 Framework. • Created and manipulated JDBC connection using DAO Implementation class. • Implemented Business logics using service Implementation class. • Creating Tables and generating Sql Queries. • Testing, installing and monitoring new systems. • Preparing documentation and presenting progress reports to customers. • Knowledge in User Interface development using XML and HTML, Experience in installing, deploying and testing with Application Servers like Tomcat 7.0, Apache 1.3/2.0. • Experience in preparing reports and creating defects in HP QC. • Knowledge in creating Lists, Libraries and and import data from excel to the custom lists in sharepoint site.  PROFESSIONAL EXPERIENCE #Project 1: Finacle Knowledge Centre (FKC) Environment: C#, SharePoint 2013, SQL 2012 Roles: Development, Client/Server Side Validation &amp; Maintenance.  Project Details: Finacle Knowledge Centre is the re-engineered version of Finacle Help and Support Portal which is dedicated to offer customized support experience to Finacle clients. The solution offers real-time, secure access to Finacle product knowledge and relevant support information's.  https://www.indeed.com/r/Palani-S/d3b2e79f56262868?isid=rex-download&ikw=download-top&co=IN   #Project 2: Container Tracking. Environment: Java, JDBC, Spring Framework, SQL, Eclipse, Tomcat. Roles: Developer. Project Details: This System is an Exhibit of real time solution to keep track of containers and make moves print document which considered being the best logistics solution for the client.  #Project 3: Care Radius-Interface Module. Environment: Oracle SQL Developer (Oracle 9i), MS SQL Server 2008 R2, SSIS Packages, MS Office, Service Remedy. Roles: Technical Support. Project Details: It is a complete medical management system, solution developed by EXL landcorp and used by HORIZON for providing end to end member's care management and the entire data are stored in and maintain in our database and each data is secured by our system. Key workflows in CR is Authorization, Appeals, case management, disease management, member compliance, provider compliance. #Project 4: Grigora (Custom Tool) Environment: Java, JDBC, Spring Framework, MySQL, Eclipse, Tomcat, MySQL Workbench. Roles: Developer.  Project Details: This System is an Exhibit of real time solution to create new user for an application. The System provides interfaces for assigning application specific roles to the user. Additionally, the System allows the user to create workflow template to handle application functionalities.  * TECHINICAL KNOWLEDGE  Programming Languages: Java 7. Web Centric Tech: JDBC Framework: Spring Version 3.2 Database: SQL, MONGO DB IDE: Eclipse Tools: Hp-QC  EDUCATION  MCA in Engineering  Anna University -  Chennai, Tamil Nadu  December 2009  B.SC.  MS University -  Tirunelveli, Tamil Nadu  September 2006  HSC    Sri Kanna Matriculation Higher Secondary School  2006  SSLC  Sri Kanna Matriculation Higher Secondary School  2004",
     "entities": [
-      [
-        3610,
-        3614,
-        "GRADUATION_YEAR"
-      ],
       [
         3610,
         3614,
@@ -16523,16 +10548,6 @@
         "DESIGNATION"
       ],
       [
-        48,
-        55,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        9,
-        44,
-        "DESIGNATION"
-      ],
-      [
         115,
         153,
         "EMAIL_ADDRESS"
@@ -16541,16 +10556,6 @@
         71,
         76,
         "LOCATION"
-      ],
-      [
-        48,
-        55,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        9,
-        44,
-        "DESIGNATION"
       ],
       [
         0,
@@ -16568,11 +10573,6 @@
         "LOCATION"
       ],
       [
-        38,
-        55,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         20,
         36,
         "DESIGNATION"
@@ -16586,11 +10586,6 @@
         3380,
         3828,
         "SKILLS"
-      ],
-      [
-        442,
-        446,
-        "GRADUATION_YEAR"
       ],
       [
         3150,
@@ -16618,69 +10613,9 @@
         "DEGREE"
       ],
       [
-        442,
-        446,
-        "GRADUATION_YEAR"
-      ],
-      [
-        20,
-        36,
-        "DESIGNATION"
-      ],
-      [
-        20,
-        36,
-        "DESIGNATION"
-      ],
-      [
-        20,
-        36,
-        "DESIGNATION"
-      ],
-      [
-        46,
-        55,
-        "LOCATION"
-      ],
-      [
-        442,
-        446,
-        "GRADUATION_YEAR"
-      ],
-      [
-        329,
-        333,
-        "GRADUATION_YEAR"
-      ],
-      [
-        276,
-        291,
-        "COLLEGE_NAME"
-      ],
-      [
         106,
         156,
         "EMAIL_ADDRESS"
-      ],
-      [
-        46,
-        55,
-        "LOCATION"
-      ],
-      [
-        46,
-        55,
-        "LOCATION"
-      ],
-      [
-        38,
-        55,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        20,
-        36,
-        "DESIGNATION"
       ],
       [
         0,
@@ -16731,21 +10666,6 @@
         130,
         182,
         "EMAIL_ADDRESS"
-      ],
-      [
-        85,
-        95,
-        "LOCATION"
-      ],
-      [
-        45,
-        69,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        22,
-        41,
-        "DESIGNATION"
       ],
       [
         0,
@@ -16811,26 +10731,6 @@
         1980,
         2006,
         "DEGREE"
-      ],
-      [
-        48,
-        81,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        83,
-        92,
-        "LOCATION"
-      ],
-      [
-        126,
-        169,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        83,
-        92,
-        "LOCATION"
       ],
       [
         48,
@@ -16923,19 +10823,9 @@
         "DESIGNATION"
       ],
       [
-        78,
-        119,
-        "EMAIL_ADDRESS"
-      ],
-      [
         38,
         44,
         "LOCATION"
-      ],
-      [
-        12,
-        36,
-        "DESIGNATION"
       ],
       [
         0,
@@ -16978,16 +10868,6 @@
         "LOCATION"
       ],
       [
-        38,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        12,
-        36,
-        "DESIGNATION"
-      ],
-      [
         0,
         11,
         "NAME"
@@ -17008,39 +10888,9 @@
         "DEGREE"
       ],
       [
-        2710,
-        2735,
-        "DEGREE"
-      ],
-      [
         2670,
         2708,
         "DEGREE"
-      ],
-      [
-        113,
-        158,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        34,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        30,
-        "DESIGNATION"
-      ],
-      [
-        34,
-        45,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        16,
-        30,
-        "DESIGNATION"
       ],
       [
         113,
@@ -17098,34 +10948,9 @@
         "LOCATION"
       ],
       [
-        32,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        30,
-        "DESIGNATION"
-      ],
-      [
         125,
         169,
         "EMAIL_ADDRESS"
-      ],
-      [
-        82,
-        91,
-        "LOCATION"
-      ],
-      [
-        32,
-        47,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        30,
-        "DESIGNATION"
       ],
       [
         0,
@@ -17158,39 +10983,9 @@
         "DESIGNATION"
       ],
       [
-        15,
-        27,
-        "DESIGNATION"
-      ],
-      [
-        15,
-        27,
-        "DESIGNATION"
-      ],
-      [
-        32,
-        49,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        27,
-        "DESIGNATION"
-      ],
-      [
         73,
         117,
         "EMAIL_ADDRESS"
-      ],
-      [
-        32,
-        49,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        15,
-        27,
-        "DESIGNATION"
       ],
       [
         0,
@@ -17253,11 +11048,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        298,
-        305,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         457,
         1171,
         "SKILLS"
@@ -17283,19 +11073,9 @@
         "DEGREE"
       ],
       [
-        298,
-        305,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         276,
         296,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        249,
-        274,
-        "DESIGNATION"
       ],
       [
         53,
@@ -17348,16 +11128,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        199,
-        202,
-        "DESIGNATION"
-      ],
-      [
-        106,
-        149,
-        "EMAIL_ADDRESS"
-      ],
-      [
         66,
         70,
         "LOCATION"
@@ -17398,44 +11168,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        12,
-        19,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        21,
-        31,
-        "DESIGNATION"
-      ],
-      [
-        12,
-        19,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         33,
         42,
         "LOCATION"
-      ],
-      [
-        76,
-        116,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        33,
-        42,
-        "LOCATION"
-      ],
-      [
-        21,
-        31,
-        "DESIGNATION"
-      ],
-      [
-        12,
-        19,
-        "COMPANIES_WORKED_AT"
       ],
       [
         0,
@@ -17481,11 +11216,6 @@
         101,
         146,
         "EMAIL_ADDRESS"
-      ],
-      [
-        48,
-        52,
-        "LOCATION"
       ],
       [
         39,
@@ -17538,11 +11268,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        103,
-        110,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         21,
         30,
         "YEARS_OF_EXPERIENCE"
@@ -17551,21 +11276,6 @@
         207,
         248,
         "EMAIL_ADDRESS"
-      ],
-      [
-        164,
-        173,
-        "LOCATION"
-      ],
-      [
-        103,
-        110,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        21,
-        30,
-        "YEARS_OF_EXPERIENCE"
       ],
       [
         0,
@@ -17603,16 +11313,6 @@
         "LOCATION"
       ],
       [
-        52,
-        103,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        22,
-        29,
-        "LOCATION"
-      ],
-      [
         0,
         21,
         "NAME"
@@ -17633,11 +11333,6 @@
         "COLLEGE_NAME"
       ],
       [
-        51,
-        59,
-        "LOCATION"
-      ],
-      [
         396,
         463,
         "SKILLS"
@@ -17651,16 +11346,6 @@
         95,
         139,
         "EMAIL_ADDRESS"
-      ],
-      [
-        51,
-        59,
-        "LOCATION"
-      ],
-      [
-        14,
-        49,
-        "DESIGNATION"
       ],
       [
         0,
@@ -17688,11 +11373,6 @@
         "DEGREE"
       ],
       [
-        93,
-        110,
-        "LOCATION"
-      ],
-      [
         1728,
         1745,
         "COLLEGE_NAME"
@@ -17718,34 +11398,9 @@
         "DESIGNATION"
       ],
       [
-        43,
-        52,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        42,
-        "DESIGNATION"
-      ],
-      [
         145,
         187,
         "EMAIL_ADDRESS"
-      ],
-      [
-        93,
-        110,
-        "LOCATION"
-      ],
-      [
-        43,
-        52,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        13,
-        42,
-        "DESIGNATION"
       ],
       [
         0,
@@ -17783,16 +11438,6 @@
         "GRADUATION_YEAR"
       ],
       [
-        1070,
-        1096,
-        "COLLEGE_NAME"
-      ],
-      [
-        1061,
-        1068,
-        "DEGREE"
-      ],
-      [
         13,
         49,
         "DESIGNATION"
@@ -17801,11 +11446,6 @@
         51,
         64,
         "LOCATION"
-      ],
-      [
-        13,
-        49,
-        "DESIGNATION"
       ],
       [
         0,
@@ -17833,24 +11473,9 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        71,
-        75,
-        "LOCATION"
-      ],
-      [
         1225,
         1256,
         "DEGREE"
-      ],
-      [
-        111,
-        152,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        71,
-        75,
-        "LOCATION"
       ],
       [
         12,
@@ -17876,11 +11501,6 @@
         7853,
         7856,
         "DEGREE"
-      ],
-      [
-        7823,
-        7851,
-        "COLLEGE_NAME"
       ],
       [
         7793,
@@ -17938,39 +11558,9 @@
         "DESIGNATION"
       ],
       [
-        16,
-        58,
-        "DESIGNATION"
-      ],
-      [
-        16,
-        25,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         367,
         400,
         "COLLEGE_NAME"
-      ],
-      [
-        16,
-        58,
-        "DESIGNATION"
-      ],
-      [
-        26,
-        58,
-        "DESIGNATION"
-      ],
-      [
-        16,
-        58,
-        "DESIGNATION"
-      ],
-      [
-        16,
-        25,
-        "COMPANIES_WORKED_AT"
       ],
       [
         0,
@@ -18018,26 +11608,6 @@
         "COMPANIES_WORKED_AT"
       ],
       [
-        30,
-        50,
-        "DESIGNATION"
-      ],
-      [
-        30,
-        50,
-        "DESIGNATION"
-      ],
-      [
-        30,
-        50,
-        "DESIGNATION"
-      ],
-      [
-        30,
-        50,
-        "DESIGNATION"
-      ],
-      [
         94,
         142,
         "EMAIL_ADDRESS"
@@ -18046,16 +11616,6 @@
         52,
         59,
         "LOCATION"
-      ],
-      [
-        30,
-        50,
-        "DESIGNATION"
-      ],
-      [
-        18,
-        27,
-        "COMPANIES_WORKED_AT"
       ],
       [
         0,
@@ -18076,11 +11636,6 @@
         78,
         122,
         "EMAIL_ADDRESS"
-      ],
-      [
-        37,
-        42,
-        "LOCATION"
       ],
       [
         1304,
@@ -18123,26 +11678,6 @@
         "DESIGNATION"
       ],
       [
-        15,
-        35,
-        "DESIGNATION"
-      ],
-      [
-        78,
-        122,
-        "EMAIL_ADDRESS"
-      ],
-      [
-        37,
-        42,
-        "LOCATION"
-      ],
-      [
-        15,
-        35,
-        "DESIGNATION"
-      ],
-      [
         0,
         14,
         "NAME"
@@ -18171,11 +11706,6 @@
         356,
         389,
         "DESIGNATION"
-      ],
-      [
-        53,
-        96,
-        "EMAIL_ADDRESS"
       ],
       [
         14,
@@ -18223,34 +11753,9 @@
         "DESIGNATION"
       ],
       [
-        82,
-        121,
-        "EMAIL_ADDRESS"
-      ],
-      [
         47,
         52,
         "LOCATION"
-      ],
-      [
-        47,
-        52,
-        "LOCATION"
-      ],
-      [
-        20,
-        45,
-        "DESIGNATION"
-      ],
-      [
-        10,
-        19,
-        "DESIGNATION"
-      ],
-      [
-        0,
-        9,
-        "NAME"
       ]
     ]
   },
@@ -18281,11 +11786,6 @@
         113,
         157,
         "EMAIL_ADDRESS"
-      ],
-      [
-        66,
-        75,
-        "LOCATION"
       ],
       [
         48,
@@ -18336,11 +11836,6 @@
         61,
         90,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        58,
-        "DESIGNATION"
       ],
       [
         0,
@@ -18403,11 +11898,6 @@
         "DEGREE"
       ],
       [
-        1478,
-        1495,
-        "DEGREE"
-      ],
-      [
         1465,
         1476,
         "DEGREE"
@@ -18427,11 +11917,6 @@
   {
     "text": "Suman Biswas SAP UI5 Lead, Native HANA Developer - Royal Dutch Shell  Bengaluru, Karnataka - Email me on Indeed: indeed.com/r/Suman-Biswas/63db95fe3ae14910  Willing to relocate to: Toronto, ON  WORK EXPERIENCE  Software Engineer  Shell -  Bangalore, Karnataka -  March 2016 to Present  SAP UI5 Lead, Native HANA Developer • Technical leader of frontend team (5 team members) for SAP UI5, Fiori, OData, XSJS since 2016. • Successfully delivered seven end to end development projects (CRV, CRD, Prelude, Charon, CTT, GPD, AIF). • Analyse business requirement, develop solution, prepare prototype, security model, application architecture, effort estimation and involve in development delivery.  • Project to expose on-premise HANA box data to outside world via HCP connectivity for mobile application. • Requirement analysis, planning, design and developing the multiple HANA XS application. • Creation of HANA tables, calculation views, used unit and currency conversion.  • Implementing row level and application enable security in applications using Analytic privilege, xsaccess.  • Worked in Agile and DevOps methodology. • Interviewer on SAP UI5 and XS since 2016 for SAPUI5. • Worked in AngularJs 1.5.  Software Engineer  IBM -  Bangalore -  August 2008 to January 2016  Performed four roles, Native HANA developer (July 2013 – January, 2016), team lead and onsite coordinator (March, 2011 – June, 2013), SAP BI professional (January, 2010 – February, 2011), VBA developer (August, 2008 – December, 2009) • Worked for British Petroleum (BP, UK), National Grid (NG, UK) and Lab for SAP Solution (LSS, US) account. • 2+ years worked in SAP HANA native development for LSS and NG.  • Developed 9 dash boards for semi real time reports for NG using HANA calculation view and HANA live. • Developed 3 projects in SAP HANA XS and SAP UI5, Lumira applications.  • Worked in SAP BI/IP based production support system (financial planning application) for 5+ years in BP downstream business.  • Saved 60,000 man hours by implementing CI in 2012. It was best CI of the year. • Performed team lead role at BP account of 6 members team for more than 2 years.  https://www.indeed.com/r/Suman-Biswas/63db95fe3ae14910?isid=rex-download&ikw=download-top&co=IN   • Worked as onsite coordinator at BP (London, UK) for more than 2 years and used to report BP senior managers (marketing and refining). • Managed incident, change and release management in production support system. • SME for Visual Basic for Application (VBA) and SAP BEx Report Customization for about 2 years. • Worked in National Grid account (energy industry, UK) for plant management using native HANA development. • Helped IBM presales team by developing POCs to get new business (mock applications showcased to potential clients) in LSS account.  Senior Web Developer – Microsoft Technology  Global System Technologies -  Kolkata, West Bengal -  January 2008 to July 2008  • Developed multiple web applications using ASP.Net, C#.Net, ADO.Net and SQL Server for clients. Used to work in MS.Net 2 version. There were online music store, shopping cart and multiple B2B & B2C applications.  Senior Web Developer - Microsoft Technology  Global System Technologies Private Limited -  January 2008 to July 2008  Developed multiple web applications using ASP.Net, C#.Net, ADO.Net and SQL Server for clients. Used to work in MS.Net 2 version. There were online music store, shopping cart and multiple B2B & B2C applications.  Software Developer-Microsoft Technologies  VIBGYOR TechSolutions -  Kolkata, West Bengal -  April 2007 to December 2007  • Mostly worked in C#.Net, MS SQL Server, XML, flash action script v.2. • Worked in network programming using TCP socket, multi-threading, image processing applications.  Software Developer-Microsoft Technologies  VIBGYOR TechSolutions -  April 2007 to December 2007  • Mostly worked in C#.Net, MS SQL Server, XML, flash action script v.2. • Worked in network programming using TCP socket, multi-threading, image processing applications.  Microsoft.Net Developer  Bright Soft Solutions -  March 2006 to February 2007    • Primarily worked in MS SQL Server and C#.Net with remoting, OOP, multi-threading, 2D dynamic animation. • Developed online poker card games (Texas hold 'em, Omaha) development for US client.  Award and Recognition • Shell CIO award, 2016. • Best of IBM award, 2012. • Best CI of the year award, 2012.  EDUCATION  MBA in Information Technology  Sikkim Manipal University  2013  Bachelor of Arts  University of Calcutta -  Kolkata, West Bengal  2005  'A' Level in Computer Application  DOEACC  2003  'O' Level in Computer Application  DOEACC  2002  SKILLS  SAP HANA (4 years), SAP UI5/Fiori (4 years), AngularJs (Less than 1 year), Web Development (8 years), Asp.Net (5 years), C# (4 years), SQL Server (3 years), HTML5 (5 years), Javascript (6 years), CSS3 (6 years), Software Solution Design (2 years), VBA (2 years), SAP BI (2 years)  LINKS  https://www.linkedin.com/in/sumanbiswas2018  AWARDS  Shell CIO award  October 2016  Received Shell CIO award for Prelude project.  https://www.linkedin.com/in/sumanbiswas2018   Best of IBM award  December 2012  Best of IBM award to perform outstanding performance for the whole year.  Best CI of the year award  December 2012  In 2012 can able to save 60,000 man hours by generating continuous improvement (CI) in technical area of our project. The work won the best CI award for 2012.  CERTIFICATIONS/LICENSES  Introduction to Oil Industry from “The Oxford Princeton Programme”, 2016.  June 2016 to Present  Introduction to Gas Industry from “The Oxford Princeton Programme”, 2016  June 2016 to Present  PUBLICATIONS  Technical Blog on Socket Programming in C#  http://socketprogramming.blogspot.com/  January 2011  Detail technical blog on socket and multi-thread programming using C#.Net with lots of sample code for beginner to advance level programmer.  It has more than 15 posts. Till now it has more than 2.7 million views.  ADDITIONAL INFORMATION  Self-initiative • Developed social network application (alap.me, 2012 - 2014) using C#.Net, ASP.Net, MySQL, JavaScript/jQuery, CSS, HTML5. With development. • Alap.me having social feature with live chat, messaging, friendship, photo and status share.  • For alap.me, setup and managed Windows 2008 server, Web server (IIS7), MySQL DB setup, schedule backup, email server configuration, chat server development and setup, client-server load balancing to optimize CPU performance, email marking with process development. • Developed (in 2012) blooddonornetwork.com for social support.  http://socketprogramming.blogspot.com/",
     "entities": [
-      [
-        63,
-        68,
-        "COMPANIES_WORKED_AT"
-      ],
       [
         63,
         68,
@@ -18483,54 +11968,19 @@
         "DEGREE"
       ],
       [
-        63,
-        68,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
         113,
         155,
         "EMAIL_ADDRESS"
       ],
       [
-        1325,
-        1329,
-        "GRADUATION_YEAR"
-      ],
-      [
-        1325,
-        1329,
-        "GRADUATION_YEAR"
-      ],
-      [
         211,
         228,
         "DESIGNATION"
-      ],
-      [
-        63,
-        68,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        211,
-        228,
-        "DESIGNATION"
-      ],
-      [
-        113,
-        155,
-        "EMAIL_ADDRESS"
       ],
       [
         70,
         79,
         "LOCATION"
-      ],
-      [
-        51,
-        68,
-        "COMPANIES_WORKED_AT"
       ],
       [
         13,
@@ -18583,26 +12033,6 @@
         "LOCATION"
       ],
       [
-        47,
-        52,
-        "LOCATION"
-      ],
-      [
-        47,
-        52,
-        "LOCATION"
-      ],
-      [
-        47,
-        52,
-        "LOCATION"
-      ],
-      [
-        47,
-        52,
-        "LOCATION"
-      ],
-      [
         2363,
         2452,
         "SKILLS"
@@ -18613,29 +12043,9 @@
         "DESIGNATION"
       ],
       [
-        11,
-        45,
-        "DESIGNATION"
-      ],
-      [
         82,
         122,
         "EMAIL_ADDRESS"
-      ],
-      [
-        47,
-        52,
-        "LOCATION"
-      ],
-      [
-        47,
-        52,
-        "LOCATION"
-      ],
-      [
-        11,
-        45,
-        "DESIGNATION"
       ],
       [
         0,
@@ -18666,11 +12076,6 @@
         53,
         62,
         "LOCATION"
-      ],
-      [
-        20,
-        51,
-        "DESIGNATION"
       ],
       [
         0,
@@ -18718,94 +12123,9 @@
         "DEGREE"
       ],
       [
-        6450,
-        6454,
-        "YEARS_OF_EXPERIENCE"
-      ],
-      [
         57,
         66,
         "LOCATION"
-      ],
-      [
-        598,
-        613,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        57,
-        66,
-        "LOCATION"
-      ],
-      [
-        598,
-        613,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        57,
-        66,
-        "LOCATION"
-      ],
-      [
-        598,
-        613,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        57,
-        66,
-        "LOCATION"
-      ],
-      [
-        598,
-        613,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        57,
-        66,
-        "LOCATION"
-      ],
-      [
-        598,
-        613,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        52,
-        55,
-        "DESIGNATION"
-      ],
-      [
-        57,
-        66,
-        "LOCATION"
-      ],
-      [
-        598,
-        613,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        52,
-        55,
-        "DESIGNATION"
-      ],
-      [
-        57,
-        66,
-        "LOCATION"
-      ],
-      [
-        598,
-        613,
-        "COMPANIES_WORKED_AT"
-      ],
-      [
-        52,
-        55,
-        "DESIGNATION"
       ],
       [
         598,
@@ -18821,21 +12141,6 @@
         100,
         152,
         "EMAIL_ADDRESS"
-      ],
-      [
-        57,
-        66,
-        "LOCATION"
-      ],
-      [
-        52,
-        55,
-        "DESIGNATION"
-      ],
-      [
-        22,
-        55,
-        "DESIGNATION"
       ],
       [
         0,
@@ -18871,11 +12176,6 @@
         34,
         58,
         "COMPANIES_WORKED_AT"
-      ],
-      [
-        14,
-        30,
-        "DESIGNATION"
       ],
       [
         0,
