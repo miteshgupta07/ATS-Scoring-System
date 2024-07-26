@@ -151,13 +151,6 @@ def show_ATS_score(text,job_description):
 
 def show_entities(text):
     data=extract_entities(text)
-    # data.append(['NAME','MITESH GUPTA'])
-    # data.append(['EMAIL_ADDRESS','miteshgupta2711@gmail.com'])
-    # data.append(['LOCATION','Vadodara, India'])
-    # data.append(['DESIGNATION','Data Science Intern'])
-    # data.append(['DEGREE','B.Tech'])
-    # data.append(['SKILLS','Data Science, AI, Machine Learning, Deep Learning, Computer Vision, NLP, Python'])
-    # data.append(['COLLEGE_NAME','Parul University'])
     df = pd.DataFrame(data, columns=["Label", "Entity"])
     st.table(df)
 
