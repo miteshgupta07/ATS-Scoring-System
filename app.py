@@ -3,6 +3,7 @@ import pdfplumber
 from docx import Document
 import spacy
 import re
+import pandas as pd
 
 st.title("Resume Parsing App")
 
@@ -120,10 +121,19 @@ def preprocess_text(text):
     
     return processed_text
 
-def extract_entities(text):
+def show_entities(text):
     nlp=spacy.load('./ner_model')
     doc=nlp(text)
-    return doc
+    data = []
+    for ent in doc.ents:
+        data.append([ent.label_, ent.text])
+    
+    # Create a DataFrame
+    df = pd.DataFrame(data, columns=["Label", "Entity"])
+    
+    st.write("Keyword")
+    st.table(df)
+    
 
 if uploaded_resume is not None:
     doc_type=uploaded_resume.type
@@ -138,8 +148,4 @@ if uploaded_resume is not None:
             text=extract_text_from_docx(uploaded_resume)
     if text:
         text=preprocess_text(text)
-        doc=extract_entities(text)
-
-        
-        # for ent in doc.ents:
-        #     print(f"{ent.text}: {ent.label_} \n")    
+        show_entities(text)  
