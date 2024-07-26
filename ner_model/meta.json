@@ -1,0 +1,43 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.5,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"a6d0fc360",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "ner":[
+      "COLLEGE_NAME",
+      "COMPANIES_WORKED_AT",
+      "DEGREE",
+      "DESIGNATION",
+      "EMAIL_ADDRESS",
+      "GRADUATION_YEAR",
+      "LOCATION",
+      "NAME",
+      "SKILLS",
+      "UNKNOWN",
+      "YEARS_OF_EXPERIENCE"
+    ]
+  },
+  "pipeline":[
+    "ner"
+  ],
+  "components":[
+    "ner"
+  ],
+  "disabled":[
+
+  ]
+}
