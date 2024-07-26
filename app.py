@@ -1,7 +1,7 @@
 import streamlit as st
 import pdfplumber
 from docx import Document
-import unicodedata
+import spacy
 import re
 
 st.title("Resume Parsing App")
@@ -116,12 +116,14 @@ def preprocess_text(text):
     # Remove newline characters and any extraneous whitespace
     text = re.sub(r'\n+', ' ', text)  # Replace multiple newlines with a single space
     text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with a single space
-    text = text.strip()  # Remove leading and trailing whitespace
+    processed_text = text.strip()  # Remove leading and trailing whitespace
     
-    return text
+    return processed_text
 
 def extract_entities(text):
-    pass
+    nlp=spacy.load('./ner_model')
+    doc=nlp(text)
+    return doc
 
 if uploaded_resume is not None:
     doc_type=uploaded_resume.type
@@ -135,6 +137,9 @@ if uploaded_resume is not None:
         else:
             text=extract_text_from_docx(uploaded_resume)
     if text:
-        preprocessed_text=preprocess_text(text)
-        entities=extract_entities(preprocessed_text)
+        text=preprocess_text(text)
+        doc=extract_entities(text)
+
         
+        # for ent in doc.ents:
+        #     print(f"{ent.text}: {ent.label_} \n")    
