@@ -8,11 +8,12 @@ import pandas as pd
 st.title("Resume Parsing App")
 
 uploaded_resume=st.file_uploader("Upload CV/Resume",['pdf','docx','txt'])
+job_description=st.text_area('Enter Job Description')
 
 def extract_text_from_pdf(pdf_file):
     text = ""
     with pdfplumber.open(pdf_file) as pdf:
-        print("Hello")
+
         for page in pdf.pages:
             text += page.extract_text()
     return text
@@ -121,31 +122,89 @@ def preprocess_text(text):
     
     return processed_text
 
-def show_entities(text):
+def extract_entities(text):
     nlp=spacy.load('./ner_model')
     doc=nlp(text)
     data = []
     for ent in doc.ents:
         data.append([ent.label_, ent.text])
-    
-    # Create a DataFrame
-    df = pd.DataFrame(data, columns=["Label", "Entity"])
-    
-    st.write("Keyword")
-    st.table(df)
-    
 
-if uploaded_resume is not None:
-    doc_type=uploaded_resume.type
-    if doc_type=='invalid':
-        st.error("CV/Resume should be in PDF/DOCX/TXT format")
-    else:
-        if doc_type=='application/pdf':
-            text=extract_text_from_pdf(uploaded_resume)
-        elif doc_type=='text/plain':
-            text=extract_text_from_docx(uploaded_resume)
+    return data
+
+def find_not_found_keywords(resume_keywords,job_keywords):
+    nf_keywords=[]
+
+    for keywords in resume_keywords:
+        if keywords[0] not in job_keywords:
+            nf_keywords.append(keywords[0])
+    return nf_keywords
+
+def show_ATS_score(text,job_description):
+    resume_keywords=extract_entities(text)
+    job_keywords=extract_entities(job_description)
+    resumek_count=len(resume_keywords)
+    jobk_count=len(job_keywords)
+    score=(resumek_count/jobk_count)*100
+    score=round(score,2)
+    not_found_keywords=find_not_found_keywords(resume_keywords,job_keywords)
+    return score,not_found_keywords
+
+def show_entities(text):
+    data=extract_entities(text)
+    # data.append(['NAME','MITESH GUPTA'])
+    # data.append(['EMAIL_ADDRESS','miteshgupta2711@gmail.com'])
+    # data.append(['LOCATION','Vadodara, India'])
+    # data.append(['DESIGNATION','Data Science Intern'])
+    # data.append(['DEGREE','B.Tech'])
+    # data.append(['SKILLS','Data Science, AI, Machine Learning, Deep Learning, Computer Vision, NLP, Python'])
+    # data.append(['COLLEGE_NAME','Parul University'])
+    df = pd.DataFrame(data, columns=["Label", "Entity"])
+    st.table(df)
+
+def main(uploaded_resume,job_description):
+    if uploaded_resume is not None:
+        doc_type=uploaded_resume.type
+        if doc_type=='invalid':
+            st.error("CV/Resume should be in PDF/DOCX/TXT format")
         else:
-            text=extract_text_from_docx(uploaded_resume)
-    if text:
-        text=preprocess_text(text)
-        show_entities(text)  
+            if doc_type=='application/pdf':
+                text=extract_text_from_pdf(uploaded_resume)
+            elif doc_type=='text/plain':
+                text=extract_text_from_docx(uploaded_resume)
+            else:
+                text=extract_text_from_docx(uploaded_resume)
+
+        if text and not job_description:
+            if st.checkbox('Show Entities'):
+                st.write("### Resume Keywords")
+                show_entities(text)
+
+        if text and job_description:
+            text=preprocess_text(text)
+            job_description=preprocess_text(job_description)
+
+            ats_score,not_found_keywords=show_ATS_score(text,job_description)
+            if ats_score<=50:
+                st.error(f"Your ATS Score is{ats_score} out of 100")
+            elif ats_score<=75:
+                st.warning(f"Your ATS Score is {ats_score} out of 100")
+            else:
+                st.success(f"Your ATS Score is {ats_score} out of 100")
+            
+            st.write('## *Suggestion Based on your Resume*')
+            if len(not_found_keywords)==0:
+                st.write("• Your Resume looks good and it has all the necessary keywords for this job description")
+            else:
+                s=", ".join(not_found_keywords)
+                st.write('You should add some more keywords like',s.title())
+
+            if st.checkbox('Show All Entities'):
+                col1,col2=st.columns(2)
+                with col1:
+                    st.write("### Resume Keywords")
+                    show_entities(text)
+                with col2:
+                    st.write("### Job Description Keywords")
+                    show_entities(job_description)
+
+main(uploaded_resume,job_description)
