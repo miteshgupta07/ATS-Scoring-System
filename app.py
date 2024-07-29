@@ -4,8 +4,9 @@ from docx import Document
 import spacy
 import re
 import pandas as pd
+import time
 
-st.title("Resume Parsing App")
+st.write("# **Applicant Tracking System (ATS)📑**")
 
 uploaded_resume=st.file_uploader("Upload CV/Resume",['pdf','docx','txt'])
 job_description=st.text_area('Enter Job Description')
@@ -144,8 +145,11 @@ def show_ATS_score(text,job_description):
     job_keywords=extract_entities(job_description)
     resumek_count=len(resume_keywords)
     jobk_count=len(job_keywords)
-    score=(resumek_count/jobk_count)*100
-    score=round(score,2)
+    if jobk_count!=0:
+        score=(resumek_count/jobk_count)*100
+        score=round(score,2)
+    else:
+        score=-1
     not_found_keywords=find_not_found_keywords(resume_keywords,job_keywords)
     return score,not_found_keywords
 
@@ -154,6 +158,8 @@ def show_entities(text):
     df = pd.DataFrame(data, columns=["Label", "Entity"])
     st.table(df)
 
+def show_suggestion():
+    pass
 def main(uploaded_resume,job_description):
     if uploaded_resume is not None:
         doc_type=uploaded_resume.type
@@ -176,13 +182,22 @@ def main(uploaded_resume,job_description):
             text=preprocess_text(text)
             job_description=preprocess_text(job_description)
 
+            progress_bar=st.progress(0)
+            for i in range(100):
+                time.sleep(0.01)  
+                progress_bar.progress(i + 1) 
+            time.sleep(1)
+
             ats_score,not_found_keywords=show_ATS_score(text,job_description)
-            if ats_score<=50:
-                st.error(f"Your ATS Score is{ats_score} out of 100")
-            elif ats_score<=75:
-                st.warning(f"Your ATS Score is {ats_score} out of 100")
+            if ats_score==-1:
+                st.warning("No Keywords Found in Job Description")
             else:
-                st.success(f"Your ATS Score is {ats_score} out of 100")
+                if ats_score<=50:
+                    st.error(f"Your ATS Score is{ats_score} out of 100")
+                elif ats_score<=75:
+                    st.warning(f"Your ATS Score is {ats_score} out of 100")
+                else:
+                    st.success(f"Your ATS Score is {ats_score} out of 100")
             
             st.write('## *Suggestion Based on your Resume*')
             if len(not_found_keywords)==0:
