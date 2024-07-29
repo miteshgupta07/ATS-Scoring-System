@@ -239,4 +239,4 @@ def main(uploaded_resume,job_description):
                     st.write("### Job Description Keywords")
                     show_entities(job_description)
 
-main(uploaded_resume,job_description)
+main(uploaded_resume,job_description) 
