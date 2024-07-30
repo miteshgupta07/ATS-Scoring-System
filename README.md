@@ -3,7 +3,7 @@
   </div>
 
 ## 🌟 Project Overview
-The ATS Scoring System is designed to parse resumes, extract entities and keywords, and score resumes based on the found keywords. The system utilizes a spaCy model trained on a Kaggle dataset to identify and score important keywords in resumes. Additionally, it provides suggestions for improvement and displays extracted entities. The entire application is built using Streamlit, allowing users to interact with the system through a web interface.
+The ATS Scoring System is designed to parse resumes, extract entities and keywords, and score resumes based on the found keywords. The system utilizes a spaCy model trained on a [Kaggle dataset](https://www.kaggle.com/datasets/dataturks/resume-entities-for-ner) to identify and score important keywords in resumes. Additionally, it provides suggestions for improvement and displays extracted entities. The entire application is built using Streamlit, allowing users to interact with the system through a web interface.
 
 ## ✨ Features
 - 📄 **Resume Parsing**: Extract text from various formats (PDF, DOCX, TXT).
