@@ -1,0 +1,5 @@
+streamlit==1.36.0
+pdfplumber==0.11.2
+docx==1.1.2
+spacy==3.7.5
+pandas==2.2.2
